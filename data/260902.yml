@@ -1,0 +1,61 @@
+about:
+  description: CommonMark + GFM compatible Markdown parser and renderer
+  license: NOASSERTION
+  homepage: https://comrak.ee
+  head: 1f0db01
+  archived: false
+  latestVersion: v0.54.0
+  collectedAt: 2026-09-02T05:10:03Z
+timeline:
+  created: 2016-11-17
+  lastCommit: 2026-08-30
+  lastRelease: 2026-07-12
+popularity:
+  star: 1690
+  watcher: 14
+  fork: 191
+  release: 92
+  contributor: 89
+  pullRequest: 64
+  issue: 265
+language:
+  Rust: 956020
+  HTML: 8308
+  Shell: 5397
+  Nix: 4680
+  Makefile: 3031
+  CSS: 2105
+totalLine: 979541
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 2
+  last90d:
+    since: 2026-06-04
+    release: 2
+    mergedPR: 19
+    openPR: 1
+    closedIssue: 1
+    openIssue: 1
+    commit: 65
+  last180d:
+    since: 2026-03-06
+    release: 4
+    mergedPR: 44
+    openPR: 2
+    closedIssue: 9
+    openIssue: 1
+    commit: 106
+  last360d:
+    since: 2025-09-07
+    release: 15
+    mergedPR: 177
+    openPR: 3
+    closedIssue: 29
+    openIssue: 4
+    commit: 479
