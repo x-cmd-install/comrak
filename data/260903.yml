@@ -1,17 +1,19 @@
 about:
-  description: CommonMark + GFM compatible Markdown parser and renderer
+  description:
+  |
+    CommonMark + GFM compatible Markdown parser and renderer
   license: NOASSERTION
   homepage: https://comrak.ee
   head: 1f0db01
   archived: false
   latestVersion: v0.54.0
-  collectedAt: 2026-09-03T05:12:44Z
+  collectedAt: 2026-09-03T22:38:12Z
 timeline:
   created: 2016-11-17
   lastCommit: 2026-08-30
   lastRelease: 2026-07-12
 popularity:
-  star: 1691
+  star: 1692
   watcher: 14
   fork: 191
   release: 92
@@ -25,7 +27,7 @@ language:
   Nix: 4680
   Makefile: 3031
   CSS: 2105
-totalLine: 979541
+totalBytes: 979541
 recent:
   last30d:
     since: 2026-08-04
