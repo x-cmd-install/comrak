@@ -7,7 +7,7 @@ CommonMark + GFM compatible Markdown parser and renderer
 - **Latest release**: `v0.55.0` (2026-09-06)
 - **Last commit**: 2026-09-06
 - **License**: NOASSERTION
-- **Stars**: 1694 · **Forks**: 191 · **Open issues**: 266 · **Contributors**: 89
+- **Stars**: 1696 · **Forks**: 192 · **Open issues**: 266 · **Contributors**: 89
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/comrak> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:42:58Z._
+_Last regenerated: 2026-09-09T04:37:27Z._
