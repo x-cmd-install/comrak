@@ -1,0 +1,678 @@
+- repo: alpine_3_24
+  subrepo: community
+  srcname: comrak
+  binname: comrak
+  visiblename: comrak
+  version: 0.55.0
+  origversion: 0.55.0-r0
+  status: newest
+  summary: CommonMark + GFM compatible Markdown parser and renderer
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: comrak
+  binname: comrak-doc
+  visiblename: comrak-doc
+  version: 0.55.0
+  origversion: 0.55.0-r0
+  status: newest
+  summary: CommonMark + GFM compatible Markdown parser and renderer (documentation)
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: comrak
+  binname: comrak
+  visiblename: comrak
+  version: 0.55.0
+  origversion: 0.55.0-r0
+  status: newest
+  summary: CommonMark + GFM compatible Markdown parser and renderer
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: comrak
+  binname: comrak-doc
+  visiblename: comrak-doc
+  version: 0.55.0
+  origversion: 0.55.0-r0
+  status: newest
+  summary: CommonMark + GFM compatible Markdown parser and renderer (documentation)
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - BSD-2-Clause
+- repo: aur
+  srcname: comrak
+  binname: comrak
+  visiblename: comrak
+  version: 0.55.0
+  origversion: 0.55.0-1
+  status: newest
+  summary: CommonMark + GFM compatible Markdown parser and renderer
+  maintainers:
+    - alerque@aur
+  licenses:
+    - BSD-2-Clause
+- repo: aur
+  srcname: comrak-git
+  binname: comrak-git
+  visiblename: comrak-git
+  version: 0.11.0.r1.g49eef43
+  origversion: 0.11.0.r1.g49eef43-2
+  status: rolling
+  summary: CommonMark + GFM compatible Markdown parser and renderer
+  maintainers:
+    - alerque@aur
+  licenses:
+    - BSD
+- repo: chimera
+  subrepo: user
+  srcname: comrak
+  binname: comrak
+  visiblename: comrak
+  version: 0.52.0
+  origversion: 0.52.0-r0
+  status: outdated
+  summary: CommonMark compatible GitHub Flavored Markdown parser and formatter
+  licenses:
+    - BSD-2-Clause
+- repo: chimera
+  subrepo: user
+  srcname: comrak
+  binname: comrak-doc
+  visiblename: comrak-doc
+  version: 0.52.0
+  origversion: 0.52.0-r0
+  status: outdated
+  summary: CommonMark compatible GitHub Flavored Markdown parser and formatter (documentation)
+  licenses:
+    - BSD-2-Clause
+- repo: crates_io
+  srcname: comrak
+  visiblename: comrak
+  version: 0.55.0
+  origversion: null
+  status: newest
+  summary: A 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.29.0
+  origversion: 0.29.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.52.0
+  origversion: 0.52.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.52.0
+  origversion: 0.52.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - misc
+- repo: debian_experimental
+  subrepo: experimental/main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.54.0
+  origversion: 0.54.0-1
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+    - tsimonq2@debian.org
+  categories:
+    - misc
+- repo: deepin_23
+  subrepo: main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.20.0
+  origversion: 0.20.0-3
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.20.0
+  origversion: 0.20.0-3
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.52.0
+  origversion: 0.52.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - misc
+- repo: fedora_39
+  subrepo: updates
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+clap-devel
+    - rust-comrak+cli-devel
+    - rust-comrak+shell-words-devel
+    - rust-comrak+syntect-devel
+    - rust-comrak+xdg-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.18.0
+  origversion: 0.18.0-4.fc39
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: release
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+clap-devel
+    - rust-comrak+cli-devel
+    - rust-comrak+shell-words-devel
+    - rust-comrak+syntect-devel
+    - rust-comrak+xdg-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.18.0
+  origversion: 0.18.0-2.fc39
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+clap-devel
+    - rust-comrak+cli-devel
+    - rust-comrak+shell-words-devel
+    - rust-comrak+syntect-devel
+    - rust-comrak+xdg-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.18.0
+  origversion: 0.18.0-4.fc40
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: release
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+clap-devel
+    - rust-comrak+cli-devel
+    - rust-comrak+shell-words-devel
+    - rust-comrak+syntect-devel
+    - rust-comrak+xdg-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.18.0
+  origversion: 0.18.0-3.fc40
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+clap-devel
+    - rust-comrak+cli-devel
+    - rust-comrak+shell-words-devel
+    - rust-comrak+syntect-devel
+    - rust-comrak+xdg-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.18.0
+  origversion: 0.18.0-5.fc41
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+clap-devel
+    - rust-comrak+cli-devel
+    - rust-comrak+shell-words-devel
+    - rust-comrak+syntect-devel
+    - rust-comrak+xdg-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.18.0
+  origversion: 0.18.0-6.fc42
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: freebsd
+  srcname: textproc/comrak
+  binname: comrak
+  visiblename: textproc/comrak
+  version: 0.54.0
+  origversion: 0.54.0_2
+  status: outdated
+  summary: CommonMark + GFM compatible Markdown parser and renderer
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - textproc
+- repo: homebrew
+  srcname: comrak
+  visiblename: comrak
+  version: 0.55.0
+  origversion: null
+  status: newest
+  summary: CommonMark + GFM compatible Markdown parser and renderer
+- repo: homebrew
+  srcname: comrak
+  visiblename: comrak
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CommonMark + GFM compatible Markdown parser and renderer
+- repo: kali_rolling
+  subrepo: main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.52.0
+  origversion: 0.52.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - misc
+- repo: nix_stable_24_05
+  srcname: comrak
+  visiblename: comrak
+  version: 0.23.0
+  origversion: null
+  status: outdated
+  summary: A CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_24_11
+  srcname: comrak
+  visiblename: comrak
+  version: 0.23.0
+  origversion: null
+  status: outdated
+  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_25_05
+  srcname: comrak
+  visiblename: comrak
+  version: 0.39.0
+  origversion: null
+  status: outdated
+  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - figsoda@pm.me
+    - ashe@kivikakk.ee
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_25_11
+  srcname: comrak
+  visiblename: comrak
+  version: 0.48.0
+  origversion: null
+  status: outdated
+  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - ashe@kivikakk.ee
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_26_05
+  srcname: comrak
+  visiblename: comrak
+  version: 0.52.0
+  origversion: null
+  status: outdated
+  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - ashe@kivikakk.ee
+  licenses:
+    - BSD-2-Clause
+- repo: nix_unstable
+  srcname: comrak
+  visiblename: comrak
+  version: 0.55.0
+  origversion: null
+  status: newest
+  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - ashe@kivikakk.ee
+  licenses:
+    - BSD-2-Clause
+- repo: parrot
+  subrepo: parrot/main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.29.0
+  origversion: 0.29.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.29.0
+  origversion: 0.29.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - misc
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.29.0
+  origversion: 0.29.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - rust
+- repo: raspbian_stable
+  subrepo: main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.29.0
+  origversion: 0.29.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.52.0
+  origversion: 0.52.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - misc
+- repo: scoop
+  subrepo: main
+  binname: comrak
+  visiblename: comrak
+  version: 0.55.0
+  origversion: null
+  status: newest
+  licenses:
+    - BSD-2-Clause,MIT,CC-BY-SA-4.0
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.20.0
+  origversion: 0.20.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.29.0
+  origversion: 0.29.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.41.0
+  origversion: 0.41.0-1
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.41.0
+  origversion: 0.41.0-1
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.52.0
+  origversion: 0.52.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - universe/misc
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: comrak
+  binname: comrak
+  visiblename: comrak
+  version: 0.51.0
+  origversion: 0.51.0_1
+  status: outdated
+  summary: CommonMark + GFM compatible Markdown parser and renderer
+  maintainers:
+    - cinerea0@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: openmandriva_6_0
+  subrepo: main/release
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+benchmarks-devel
+    - rust-comrak+clap-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.7.0
+  origversion: 0.7.0-2
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - bero+massbuild@lindev.ch
+  licenses:
+    - BSD
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openmandriva_rolling
+  subrepo: main/release
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+benchmarks-devel
+    - rust-comrak+clap-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.7.0
+  origversion: 0.7.0-2
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - bero+massbuild@lindev.ch
+  licenses:
+    - BSD
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+benchmarks-devel
+    - rust-comrak+clap-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.7.0
+  origversion: 0.7.0-2
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - bero+massbuild@lindev.ch
+  licenses:
+    - BSD
+  categories:
+    - Unspecified
+  vulnerable: true
