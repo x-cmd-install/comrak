@@ -4,7 +4,7 @@
 
 CommonMark + GFM compatible Markdown parser and renderer
 
-![comrak](https://repo.x-cmd.io/comrak.svg)
+![comrak](https://repo.x-cmd.io/comrak.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,17 @@ x install comrak
 - **最新版本**: `v0.55.0` (2026-09-06)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-09-06T11:55:31Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [comrak-0.55.0-aarch64-apple-darwin](https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-aarch64-apple-darwin) | 2.9 MiB | `native/darwin/arm64` |
+| [comrak-0.55.0-aarch64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-aarch64-pc-windows-msvc.exe) | 2.7 MiB | `native/win/arm64` |
+| [comrak-0.55.0-aarch64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-aarch64-unknown-linux-musl) | 3.4 MiB | `native/linux/arm64/musl` |
+| [comrak-0.55.0-x86_64-apple-darwin](https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-x86_64-apple-darwin) | 3.0 MiB | `native/darwin/x64` |
+| [comrak-0.55.0-x86_64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-x86_64-pc-windows-msvc.exe) | 2.9 MiB | `native/win/x64` |
+| [comrak-0.55.0-x86_64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-x86_64-unknown-linux-musl) | 3.6 MiB | `native/linux/x64/musl` |
 
 ## 流行度
 
@@ -72,4 +82,4 @@ comrak 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:30:28Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:59:56Z._
