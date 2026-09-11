@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3811592,
       "digest": "sha256:718b202c3d3f803a4f8bd31db6235c3d241b535c1884b21c6675827296bc0944",
-      "download_count": 17,
+      "download_count": 19,
       "created_at": "2026-09-06T12:20:38Z",
       "updated_at": "2026-09-06T12:20:39Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-x86_64-unknown-linux-musl"
