@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 2 | 0 | 0 | 2 | 7 |
-| last60d | 2026-07-12 | 2 | 5 | 0 | 0 | 2 | 9 |
-| 90d | 2026-06-12 | 3 | 20 | 1 | 1 | 2 | 71 |
-| last180d | 2026-03-14 | 4 | 37 | 2 | 7 | 2 | 102 |
-| 360d | 2025-09-15 | 15 | 174 | 3 | 26 | 5 | 472 |
-| last720d | 2024-09-20 | 30 | 239 | 3 | 77 | 9 | 929 |
+| 30d | 2026-08-12 | 1 | 2 | 0 | 0 | 2 | 7 |
+| last60d | 2026-07-13 | 1 | 4 | 0 | 0 | 2 | 9 |
+| 90d | 2026-06-13 | 3 | 20 | 1 | 1 | 2 | 71 |
+| last180d | 2026-03-15 | 4 | 37 | 2 | 7 | 2 | 102 |
+| 360d | 2025-09-16 | 15 | 174 | 3 | 26 | 5 | 472 |
+| last720d | 2024-09-21 | 30 | 239 | 3 | 77 | 9 | 929 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:25:54Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:29:28Z._
