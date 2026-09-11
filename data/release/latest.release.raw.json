@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3014640,
       "digest": "sha256:cdb6df0078fc50354aad1d16b73571650ddf913a6701718a2d27219458655226",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-06T12:20:29Z",
       "updated_at": "2026-09-06T12:20:33Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-aarch64-apple-darwin"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3581904,
       "digest": "sha256:7036b0b4bc3f5fef983c6c1ca0d63123ecee6a968d50c901b1bbbcf1f3f0f157",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-06T12:20:33Z",
       "updated_at": "2026-09-06T12:20:34Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-aarch64-unknown-linux-musl"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3117708,
       "digest": "sha256:3b978ae228217955d967f0d3ad231879cd0788e89a6f6fb25629f56d2e461e99",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-06T12:20:34Z",
       "updated_at": "2026-09-06T12:20:38Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-x86_64-apple-darwin"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3811592,
       "digest": "sha256:718b202c3d3f803a4f8bd31db6235c3d241b535c1884b21c6675827296bc0944",
-      "download_count": 19,
+      "download_count": 25,
       "created_at": "2026-09-06T12:20:38Z",
       "updated_at": "2026-09-06T12:20:39Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-x86_64-unknown-linux-musl"

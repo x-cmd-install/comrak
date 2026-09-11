@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.55.0"
   latestRelease: "v0.55.0"
   latestPrerelease: "v0.45.0-rc.1"
-  collectedAt: 2026-09-11T04:29:21Z
+  collectedAt: 2026-09-11T20:32:43Z
 timeline:
   created: 2016-11-17
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-06
   lastPrerelease: 2025-10-20
 popularity:
-  star: 1696
+  star: 1698
   watcher: 14
   fork: 192
   release: 93
@@ -88,7 +88,7 @@ total:
   commit: 2202
 ---
 path: /home/runner/.x-repo/github.com/kivikakk/comrak
-collectedAt: 2026-09-11T04:29:23Z
+collectedAt: 2026-09-11T20:32:47Z
 loc:
   Rust:
     code: 44205
