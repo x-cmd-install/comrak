@@ -1,3 +1,72 @@
+- repo: openmandriva_6_0
+  subrepo: main/release
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+benchmarks-devel
+    - rust-comrak+clap-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.7.0
+  origversion: 0.7.0-2
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - bero+massbuild@lindev.ch
+  licenses:
+    - BSD
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openmandriva_rolling
+  subrepo: main/release
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+benchmarks-devel
+    - rust-comrak+clap-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.7.0
+  origversion: 0.7.0-2
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - bero+massbuild@lindev.ch
+  licenses:
+    - BSD
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+benchmarks-devel
+    - rust-comrak+clap-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.7.0
+  origversion: 0.7.0-2
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - bero+massbuild@lindev.ch
+  licenses:
+    - BSD
+  categories:
+    - Unspecified
+  vulnerable: true
 - repo: alpine_3_24
   subrepo: community
   srcname: comrak
@@ -201,29 +270,6 @@
   categories:
     - misc
 - repo: fedora_39
-  subrepo: updates
-  srcname: rust-comrak
-  binnames:
-    - comrak
-    - rust-comrak-devel
-    - rust-comrak+default-devel
-    - rust-comrak+clap-devel
-    - rust-comrak+cli-devel
-    - rust-comrak+shell-words-devel
-    - rust-comrak+syntect-devel
-    - rust-comrak+xdg-devel
-    - rust-comrak-debuginfo
-    - rust-comrak-debugsource
-  visiblename: rust-comrak
-  version: 0.18.0
-  origversion: 0.18.0-4.fc39
-  status: outdated
-  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: release
   srcname: rust-comrak
   binnames:
@@ -246,7 +292,19 @@
     - BSD-2-Clause
   categories:
     - Unspecified
-- repo: fedora_40
+- repo: nix_stable_25_05
+  srcname: comrak
+  visiblename: comrak
+  version: 0.39.0
+  origversion: null
+  status: outdated
+  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - figsoda@pm.me
+    - ashe@kivikakk.ee
+  licenses:
+    - BSD-2-Clause
+- repo: fedora_39
   subrepo: updates
   srcname: rust-comrak
   binnames:
@@ -262,7 +320,7 @@
     - rust-comrak-debugsource
   visiblename: rust-comrak
   version: 0.18.0
-  origversion: 0.18.0-4.fc40
+  origversion: 0.18.0-4.fc39
   status: outdated
   summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
   licenses:
@@ -286,6 +344,29 @@
   visiblename: rust-comrak
   version: 0.18.0
   origversion: 0.18.0-3.fc40
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+clap-devel
+    - rust-comrak+cli-devel
+    - rust-comrak+shell-words-devel
+    - rust-comrak+syntect-devel
+    - rust-comrak+xdg-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.18.0
+  origversion: 0.18.0-4.fc40
   status: outdated
   summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
   licenses:
@@ -342,9 +423,9 @@
   srcname: textproc/comrak
   binname: comrak
   visiblename: textproc/comrak
-  version: 0.54.0
-  origversion: 0.54.0_2
-  status: outdated
+  version: 0.55.0
+  origversion: null
+  status: newest
   summary: CommonMark + GFM compatible Markdown parser and renderer
   maintainers:
     - yuri@freebsd.org
@@ -398,18 +479,6 @@
   summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
   maintainers:
     - figsoda@pm.me
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_25_05
-  srcname: comrak
-  visiblename: comrak
-  version: 0.39.0
-  origversion: null
-  status: outdated
-  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
-  maintainers:
-    - figsoda@pm.me
-    - ashe@kivikakk.ee
   licenses:
     - BSD-2-Clause
 - repo: nix_stable_25_11
@@ -607,72 +676,3 @@
     - cinerea0@protonmail.com
   licenses:
     - BSD-2-Clause
-- repo: openmandriva_6_0
-  subrepo: main/release
-  srcname: rust-comrak
-  binnames:
-    - comrak
-    - rust-comrak-devel
-    - rust-comrak+default-devel
-    - rust-comrak+benchmarks-devel
-    - rust-comrak+clap-devel
-    - rust-comrak-debuginfo
-    - rust-comrak-debugsource
-  visiblename: rust-comrak
-  version: 0.7.0
-  origversion: 0.7.0-2
-  status: outdated
-  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
-  maintainers:
-    - bero+massbuild@lindev.ch
-  licenses:
-    - BSD
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: openmandriva_rolling
-  subrepo: main/release
-  srcname: rust-comrak
-  binnames:
-    - comrak
-    - rust-comrak-devel
-    - rust-comrak+default-devel
-    - rust-comrak+benchmarks-devel
-    - rust-comrak+clap-devel
-    - rust-comrak-debuginfo
-    - rust-comrak-debugsource
-  visiblename: rust-comrak
-  version: 0.7.0
-  origversion: 0.7.0-2
-  status: outdated
-  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
-  maintainers:
-    - bero+massbuild@lindev.ch
-  licenses:
-    - BSD
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: openmandriva_cooker
-  subrepo: main/release
-  srcname: rust-comrak
-  binnames:
-    - comrak
-    - rust-comrak-devel
-    - rust-comrak+default-devel
-    - rust-comrak+benchmarks-devel
-    - rust-comrak+clap-devel
-    - rust-comrak-debuginfo
-    - rust-comrak-debugsource
-  visiblename: rust-comrak
-  version: 0.7.0
-  origversion: 0.7.0-2
-  status: outdated
-  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
-  maintainers:
-    - bero+massbuild@lindev.ch
-  licenses:
-    - BSD
-  categories:
-    - Unspecified
-  vulnerable: true
