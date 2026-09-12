@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,698 · **Forks**: 192 · **Open issues**: 266 · **Contributors**: 89
+- **Stars**: 1,699 · **Forks**: 192 · **Open issues**: 266 · **Contributors**: 89
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 2 | 0 | 0 | 2 | 7 |
-| last60d | 2026-07-13 | 1 | 4 | 0 | 0 | 2 | 9 |
-| 90d | 2026-06-13 | 3 | 20 | 1 | 1 | 2 | 71 |
-| last180d | 2026-03-15 | 4 | 37 | 2 | 7 | 2 | 102 |
-| 360d | 2025-09-16 | 15 | 174 | 3 | 26 | 5 | 472 |
-| last720d | 2024-09-21 | 30 | 239 | 3 | 77 | 9 | 929 |
+| 30d | 2026-08-13 | 1 | 2 | 0 | 0 | 2 | 7 |
+| last60d | 2026-07-14 | 1 | 4 | 0 | 0 | 2 | 9 |
+| 90d | 2026-06-14 | 3 | 20 | 1 | 1 | 2 | 71 |
+| last180d | 2026-03-16 | 4 | 37 | 2 | 7 | 2 | 102 |
+| 360d | 2025-09-17 | 15 | 174 | 3 | 26 | 5 | 472 |
+| last720d | 2024-09-22 | 30 | 239 | 3 | 77 | 9 | 929 |
 
 ## Release assets
 
@@ -78,7 +78,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **47** distros on [repology.org](https://repology.org/project/comrak). **9** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
+Reported by **47** distros on [repology.org](https://repology.org/project/comrak). **10** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -101,4 +101,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:33:02Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:30:45Z._
