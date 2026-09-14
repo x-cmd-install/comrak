@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 2 | 0 | 0 | 2 | 7 |
-| last60d | 2026-07-15 | 1 | 4 | 0 | 0 | 2 | 8 |
-| 90d | 2026-06-15 | 3 | 20 | 1 | 1 | 2 | 68 |
-| last180d | 2026-03-17 | 4 | 37 | 2 | 6 | 2 | 95 |
-| 360d | 2025-09-18 | 15 | 174 | 3 | 26 | 5 | 453 |
-| last720d | 2024-09-23 | 30 | 239 | 3 | 77 | 9 | 929 |
+| 30d | 2026-08-15 | 1 | 2 | 0 | 0 | 2 | 7 |
+| last60d | 2026-07-16 | 1 | 4 | 0 | 0 | 2 | 8 |
+| 90d | 2026-06-16 | 3 | 20 | 1 | 1 | 2 | 68 |
+| last180d | 2026-03-18 | 4 | 37 | 2 | 6 | 2 | 95 |
+| 360d | 2025-09-19 | 15 | 174 | 3 | 26 | 5 | 453 |
+| last720d | 2024-09-24 | 30 | 239 | 3 | 76 | 9 | 929 |
 
 ## Release assets
 
@@ -76,22 +76,6 @@ Lowest-scoring checks:
 | [comrak-0.55.0-x86_64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-x86_64-pc-windows-msvc.exe) | 2.9 MiB | `native/win/x64` |
 | [comrak-0.55.0-x86_64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-x86_64-unknown-linux-musl) | 3.6 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **47** distros on [repology.org](https://repology.org/project/comrak). **10** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.52.0` | ⚠️ outdated |
-| Debian 14 | `0.52.0` | ⚠️ outdated |
-| Debian 13 | `0.29.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.41.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.20.0` | ⚠️ outdated |
-| Homebrew | `0.55.0` | ✅ latest |
-| Nix unstable | `0.55.0` | ✅ latest |
-| Void | `0.51.0` | ⚠️ outdated |
-| Alpine edge | `0.55.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `comrak` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +85,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:42:51Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:47:57Z._
