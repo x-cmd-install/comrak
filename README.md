@@ -30,7 +30,7 @@ Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 1/9 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-06)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-14
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,699 · **Forks**: 192 · **Open issues**: 266 · **Contributors**: 89
+- **Stars**: 1,699 · **Forks**: 193 · **Open issues**: 266 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 470 · **Open PRs**: 3 · **Closed issues**: 255 · **Open issues**: 11 · **Commits**: 2202
+- **Releases**: 93 · **Merged PRs**: 471 · **Open PRs**: 4 · **Closed issues**: 255 · **Open issues**: 11 · **Commits**: 2204
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 2 | 0 | 0 | 2 | 7 |
-| last60d | 2026-07-16 | 1 | 4 | 0 | 0 | 2 | 8 |
-| 90d | 2026-06-16 | 3 | 20 | 1 | 1 | 2 | 68 |
-| last180d | 2026-03-18 | 4 | 37 | 2 | 6 | 2 | 95 |
-| 360d | 2025-09-19 | 15 | 174 | 3 | 26 | 5 | 453 |
-| last720d | 2024-09-24 | 30 | 239 | 3 | 76 | 9 | 929 |
+| 30d | 2026-08-16 | 1 | 3 | 1 | 0 | 2 | 8 |
+| last60d | 2026-07-17 | 1 | 5 | 1 | 0 | 2 | 9 |
+| 90d | 2026-06-17 | 3 | 21 | 2 | 1 | 2 | 69 |
+| last180d | 2026-03-19 | 4 | 38 | 3 | 6 | 2 | 96 |
+| 360d | 2025-09-20 | 15 | 175 | 4 | 26 | 5 | 454 |
+| last720d | 2024-09-25 | 30 | 239 | 4 | 76 | 9 | 931 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:47:57Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:51:27Z._
