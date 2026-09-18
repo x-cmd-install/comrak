@@ -14,11 +14,11 @@ x install comrak
 
 ## Code insight
 
-Total: **45,645** lines of code across **104** files in the top 5 languages.
+Total: **45,672** lines of code across **104** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 44,205 | 739 | 2,944 | 95 |
+| Rust | 44,232 | 744 | 2,946 | 95 |
 | OCaml | 723 | 0 | 46 | 1 |
 | Nix | 177 | 2 | 22 | 2 |
 | Toml | 158 | 6 | 28 | 3 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-06)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-17
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,701 · **Forks**: 194 · **Open issues**: 266 · **Contributors**: 89
+- **Stars**: 1,704 · **Forks**: 194 · **Open issues**: 266 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 471 · **Open PRs**: 6 · **Closed issues**: 255 · **Open issues**: 11 · **Commits**: 2204
+- **Releases**: 93 · **Merged PRs**: 472 · **Open PRs**: 5 · **Closed issues**: 255 · **Open issues**: 11 · **Commits**: 2206
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 3 | 3 | 0 | 2 | 8 |
-| last60d | 2026-07-19 | 1 | 5 | 3 | 0 | 2 | 9 |
-| 90d | 2026-06-19 | 3 | 20 | 4 | 1 | 2 | 69 |
-| last180d | 2026-03-21 | 4 | 37 | 5 | 6 | 2 | 96 |
-| 360d | 2025-09-22 | 15 | 172 | 6 | 26 | 5 | 454 |
-| last720d | 2024-09-27 | 30 | 239 | 6 | 76 | 9 | 929 |
+| 30d | 2026-08-19 | 1 | 4 | 2 | 0 | 2 | 9 |
+| last60d | 2026-07-20 | 1 | 5 | 2 | 0 | 2 | 10 |
+| 90d | 2026-06-20 | 3 | 20 | 3 | 1 | 2 | 70 |
+| last180d | 2026-03-22 | 4 | 38 | 4 | 6 | 2 | 97 |
+| 360d | 2025-09-23 | 15 | 172 | 5 | 26 | 5 | 455 |
+| last720d | 2024-09-28 | 30 | 240 | 5 | 76 | 9 | 930 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T04:48:19Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:34:52Z._
