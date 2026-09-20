@@ -4,7 +4,7 @@
 
 CommonMark + GFM compatible Markdown parser and renderer
 
-![comrak](https://repo.x-cmd.io/comrak.svg)
+[![x-cmd/install — comrak Code Quality Monitoring Repo Card](https://repo.x-cmd.io/comrak.svg)](https://x-cmd.com/install/comrak)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,704 · **Forks**: 194 · **Open issues**: 266 · **Contributors**: 90
+- **Stars**: 1,706 · **Forks**: 194 · **Open issues**: 266 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 472 · **Open PRs**: 5 · **Closed issues**: 255 · **Open issues**: 11 · **Commits**: 2206
+- **Releases**: 93 · **Merged PRs**: 472 · **Open PRs**: 6 · **Closed issues**: 255 · **Open issues**: 11 · **Commits**: 2206
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 4 | 2 | 0 | 2 | 9 |
-| last60d | 2026-07-20 | 1 | 5 | 2 | 0 | 2 | 10 |
-| 90d | 2026-06-20 | 3 | 20 | 3 | 1 | 2 | 70 |
-| last180d | 2026-03-22 | 4 | 38 | 4 | 6 | 2 | 97 |
-| 360d | 2025-09-23 | 15 | 172 | 5 | 26 | 5 | 455 |
-| last720d | 2024-09-28 | 30 | 240 | 5 | 76 | 9 | 930 |
+| 30d | 2026-08-21 | 1 | 4 | 3 | 0 | 2 | 9 |
+| last60d | 2026-07-22 | 1 | 5 | 3 | 0 | 2 | 10 |
+| 90d | 2026-06-22 | 3 | 19 | 4 | 1 | 2 | 67 |
+| last180d | 2026-03-24 | 4 | 36 | 5 | 5 | 2 | 90 |
+| 360d | 2025-09-25 | 14 | 165 | 6 | 25 | 5 | 438 |
+| last720d | 2024-09-30 | 30 | 240 | 6 | 76 | 9 | 929 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:34:52Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:52:49Z._
