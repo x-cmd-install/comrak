@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,706 · **Forks**: 194 · **Open issues**: 266 · **Contributors**: 90
+- **Stars**: 1,707 · **Forks**: 194 · **Open issues**: 266 · **Contributors**: 90
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 4 | 3 | 0 | 2 | 9 |
-| last60d | 2026-07-22 | 1 | 5 | 3 | 0 | 2 | 10 |
-| 90d | 2026-06-22 | 3 | 19 | 4 | 1 | 2 | 67 |
-| last180d | 2026-03-24 | 4 | 36 | 5 | 5 | 2 | 90 |
-| 360d | 2025-09-25 | 14 | 165 | 6 | 25 | 5 | 438 |
-| last720d | 2024-09-30 | 30 | 240 | 6 | 76 | 9 | 929 |
+| 30d | 2026-08-22 | 1 | 4 | 3 | 0 | 2 | 9 |
+| last60d | 2026-07-23 | 1 | 5 | 3 | 0 | 2 | 10 |
+| 90d | 2026-06-23 | 3 | 19 | 4 | 1 | 2 | 67 |
+| last180d | 2026-03-25 | 4 | 36 | 5 | 5 | 2 | 90 |
+| 360d | 2025-09-26 | 14 | 163 | 6 | 25 | 5 | 438 |
+| last720d | 2024-10-01 | 30 | 240 | 6 | 76 | 9 | 929 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:52:49Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:46:54Z._
