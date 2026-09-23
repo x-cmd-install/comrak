@@ -4,7 +4,7 @@
 
 CommonMark + GFM compatible Markdown parser and renderer
 
-[![x-cmd/install — comrak Code Quality Monitoring Repo Card](https://repo.x-cmd.io/comrak.svg)](https://x-cmd.com/install/comrak)
+[![x-cmd/install — comrak Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/comrak.svg)](https://x-cmd.com/install/comrak)
 
 ## Install
 
@@ -26,11 +26,11 @@ Total: **45,679** lines of code across **104** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.4 / 10**
+Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 1/9 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 2/9 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 8 | 1 | 0 | 2 | 13 |
-| last60d | 2026-07-24 | 1 | 9 | 1 | 0 | 2 | 14 |
-| 90d | 2026-06-24 | 3 | 23 | 2 | 1 | 2 | 71 |
-| last180d | 2026-03-26 | 4 | 40 | 3 | 4 | 2 | 94 |
-| 360d | 2025-09-27 | 14 | 167 | 4 | 25 | 5 | 442 |
-| last720d | 2024-10-02 | 30 | 244 | 4 | 76 | 9 | 937 |
+| 30d | 2026-08-24 | 1 | 8 | 1 | 0 | 2 | 13 |
+| last60d | 2026-07-25 | 1 | 9 | 1 | 0 | 2 | 14 |
+| 90d | 2026-06-25 | 3 | 23 | 2 | 1 | 2 | 71 |
+| last180d | 2026-03-27 | 4 | 40 | 3 | 4 | 2 | 94 |
+| 360d | 2025-09-28 | 14 | 167 | 4 | 25 | 5 | 442 |
+| last720d | 2024-10-03 | 30 | 244 | 4 | 76 | 9 | 937 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:46:09Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:50:13Z._

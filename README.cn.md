@@ -4,7 +4,7 @@
 
 CommonMark + GFM compatible Markdown parser and renderer
 
-[![x-cmd/install — comrak Code Quality Monitoring Repo Card](https://repo.x-cmd.io/comrak.svg?lang=zh)](https://x-cmd.com/install/comrak)
+[![x-cmd/install — comrak Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/comrak.svg?lang=zh)](https://x-cmd.com/install/comrak)
 
 ## 安装
 
@@ -26,11 +26,11 @@ x install comrak
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.4 / 10**
+总评分: **5.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 1/9 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 2/9 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -58,12 +58,12 @@ x install comrak
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 8 | 1 | 0 | 2 | 13 |
-| last60d | 2026-07-24 | 1 | 9 | 1 | 0 | 2 | 14 |
-| 90d | 2026-06-24 | 3 | 23 | 2 | 1 | 2 | 71 |
-| last180d | 2026-03-26 | 4 | 40 | 3 | 4 | 2 | 94 |
-| 360d | 2025-09-27 | 14 | 167 | 4 | 25 | 5 | 442 |
-| last720d | 2024-10-02 | 30 | 244 | 4 | 76 | 9 | 937 |
+| 30d | 2026-08-24 | 1 | 8 | 1 | 0 | 2 | 13 |
+| last60d | 2026-07-25 | 1 | 9 | 1 | 0 | 2 | 14 |
+| 90d | 2026-06-25 | 3 | 23 | 2 | 1 | 2 | 71 |
+| last180d | 2026-03-27 | 4 | 40 | 3 | 4 | 2 | 94 |
+| 360d | 2025-09-28 | 14 | 167 | 4 | 25 | 5 | 442 |
+| last720d | 2024-10-03 | 30 | 244 | 4 | 76 | 9 | 937 |
 
 ## Release 资产
 
@@ -85,4 +85,4 @@ comrak 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:46:10Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:50:14Z._
