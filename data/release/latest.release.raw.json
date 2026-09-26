@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2863104,
       "digest": "sha256:75d1d3ec5267931fceefcdef7e0a9c7dd109d4165901dcce4675f2cc5886c5e1",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-06T12:24:28Z",
       "updated_at": "2026-09-06T12:24:29Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-aarch64-pc-windows-msvc.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3037184,
       "digest": "sha256:97c7b531bf18e310f260b8a4aa397418a89ba2864c9b73ae6eb93553a84b50ab",
-      "download_count": 37,
+      "download_count": 40,
       "created_at": "2026-09-06T12:24:24Z",
       "updated_at": "2026-09-06T12:24:28Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-x86_64-pc-windows-msvc.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3811592,
       "digest": "sha256:718b202c3d3f803a4f8bd31db6235c3d241b535c1884b21c6675827296bc0944",
-      "download_count": 62,
+      "download_count": 63,
       "created_at": "2026-09-06T12:20:38Z",
       "updated_at": "2026-09-06T12:20:39Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-x86_64-unknown-linux-musl"
