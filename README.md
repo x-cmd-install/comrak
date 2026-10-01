@@ -14,11 +14,11 @@ x install comrak
 
 ## Code insight
 
-Total: **45,653** lines of code across **103** files in the top 5 languages.
+Total: **45,794** lines of code across **103** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 44,213 | 743 | 2,946 | 94 |
+| Rust | 44,354 | 743 | 2,961 | 94 |
 | OCaml | 723 | 0 | 46 | 1 |
 | Nix | 177 | 2 | 22 | 2 |
 | Toml | 158 | 6 | 28 | 3 |
@@ -30,7 +30,7 @@ Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 2/9 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 2/10 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-06)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-10-01
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,713 · **Forks**: 194 · **Open issues**: 266 · **Contributors**: 90
+- **Stars**: 1,714 · **Forks**: 194 · **Open issues**: 266 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 480 · **Open PRs**: 4 · **Closed issues**: 256 · **Open issues**: 10 · **Commits**: 2226
+- **Releases**: 93 · **Merged PRs**: 484 · **Open PRs**: 4 · **Closed issues**: 256 · **Open issues**: 10 · **Commits**: 2235
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 1 | 11 | 1 | 1 | 0 | 20 |
-| last60d | 2026-08-01 | 1 | 13 | 1 | 1 | 1 | 22 |
-| 90d | 2026-07-02 | 3 | 24 | 2 | 2 | 1 | 42 |
-| last180d | 2026-04-03 | 4 | 41 | 3 | 3 | 1 | 96 |
-| 360d | 2025-10-05 | 13 | 169 | 4 | 26 | 4 | 449 |
-| last720d | 2024-10-10 | 30 | 246 | 4 | 75 | 8 | 949 |
+| 30d | 2026-09-01 | 1 | 15 | 1 | 1 | 0 | 25 |
+| last60d | 2026-08-02 | 1 | 17 | 1 | 1 | 1 | 27 |
+| 90d | 2026-07-03 | 2 | 28 | 2 | 2 | 1 | 47 |
+| last180d | 2026-04-04 | 4 | 44 | 3 | 3 | 1 | 101 |
+| 360d | 2025-10-06 | 13 | 173 | 4 | 26 | 4 | 454 |
+| last720d | 2024-10-11 | 29 | 250 | 4 | 75 | 8 | 953 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:24:51Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:41:11Z._
