@@ -14,11 +14,11 @@ x install comrak
 
 ## Code insight
 
-Total: **46,421** lines of code across **104** files in the top 5 languages.
+Total: **46,654** lines of code across **104** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 44,981 | 747 | 3,015 | 95 |
+| Rust | 45,214 | 748 | 3,024 | 95 |
 | OCaml | 723 | 0 | 46 | 1 |
 | Nix | 177 | 2 | 22 | 2 |
 | Toml | 158 | 6 | 28 | 3 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-06)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-03
 - **Assets in release**: 6
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 496 · **Open PRs**: 3 · **Closed issues**: 256 · **Open issues**: 10 · **Commits**: 2266
+- **Releases**: 93 · **Merged PRs**: 500 · **Open PRs**: 5 · **Closed issues**: 256 · **Open issues**: 10 · **Commits**: 2274
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 1 | 27 | 0 | 1 | 0 | 44 |
-| last60d | 2026-08-03 | 1 | 29 | 0 | 1 | 1 | 46 |
-| 90d | 2026-07-04 | 2 | 39 | 1 | 2 | 1 | 66 |
-| last180d | 2026-04-05 | 3 | 56 | 2 | 3 | 1 | 120 |
-| 360d | 2025-10-07 | 13 | 185 | 3 | 26 | 4 | 473 |
-| last720d | 2024-10-12 | 29 | 262 | 3 | 75 | 8 | 984 |
+| 30d | 2026-09-03 | 1 | 31 | 2 | 1 | 0 | 48 |
+| last60d | 2026-08-04 | 1 | 33 | 2 | 1 | 1 | 50 |
+| 90d | 2026-07-05 | 2 | 42 | 3 | 2 | 1 | 70 |
+| last180d | 2026-04-06 | 3 | 59 | 4 | 3 | 1 | 124 |
+| 360d | 2025-10-08 | 13 | 189 | 5 | 26 | 4 | 477 |
+| last720d | 2024-10-13 | 29 | 266 | 5 | 75 | 8 | 991 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:26:44Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:15:37Z._
