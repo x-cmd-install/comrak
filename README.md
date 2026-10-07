@@ -14,23 +14,23 @@ x install comrak
 
 ## Code insight
 
-Total: **46,720** lines of code across **104** files in the top 5 languages.
+Total: **46,718** lines of code across **104** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 45,280 | 742 | 3,026 | 95 |
 | OCaml | 723 | 0 | 46 | 1 |
-| Nix | 177 | 2 | 22 | 2 |
+| Nix | 176 | 2 | 22 | 2 |
 | Toml | 158 | 6 | 28 | 3 |
 | Html | 106 | 0 | 2 | 3 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 2/10 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 4/13 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -42,9 +42,9 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.55.0` (2026-09-06)
-- **Last commit**: 2026-10-03
-- **Assets in release**: 6
+- **Latest**: `v0.56.0` (2026-10-06)
+- **Last commit**: 2026-10-06
+- **Assets in release**: 5
 
 ## Popularity
 
@@ -52,29 +52,28 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 503 · **Open PRs**: 4 · **Closed issues**: 256 · **Open issues**: 10 · **Commits**: 2282
+- **Releases**: 94 · **Merged PRs**: 505 · **Open PRs**: 3 · **Closed issues**: 256 · **Open issues**: 10 · **Commits**: 2289
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 33 | 1 | 1 | 0 | 47 |
-| last60d | 2026-08-07 | 1 | 36 | 1 | 1 | 1 | 54 |
-| 90d | 2026-07-08 | 2 | 41 | 1 | 2 | 1 | 57 |
-| last180d | 2026-04-09 | 3 | 62 | 3 | 3 | 1 | 127 |
-| 360d | 2025-10-11 | 13 | 191 | 4 | 26 | 4 | 463 |
-| last720d | 2024-10-16 | 29 | 269 | 4 | 75 | 8 | 996 |
+| 30d | 2026-09-07 | 1 | 35 | 0 | 0 | 0 | 52 |
+| last60d | 2026-08-08 | 2 | 38 | 0 | 1 | 1 | 59 |
+| 90d | 2026-07-09 | 3 | 43 | 0 | 2 | 1 | 62 |
+| last180d | 2026-04-10 | 4 | 63 | 2 | 3 | 1 | 132 |
+| 360d | 2025-10-12 | 14 | 192 | 3 | 26 | 4 | 468 |
+| last720d | 2024-10-17 | 30 | 271 | 3 | 75 | 8 | 1003 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [comrak-0.55.0-aarch64-apple-darwin](https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-aarch64-apple-darwin) | 2.9 MiB | `native/darwin/arm64` |
-| [comrak-0.55.0-aarch64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-aarch64-pc-windows-msvc.exe) | 2.7 MiB | `native/win/arm64` |
-| [comrak-0.55.0-aarch64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-aarch64-unknown-linux-musl) | 3.4 MiB | `native/linux/arm64/musl` |
-| [comrak-0.55.0-x86_64-apple-darwin](https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-x86_64-apple-darwin) | 3.0 MiB | `native/darwin/x64` |
-| [comrak-0.55.0-x86_64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-x86_64-pc-windows-msvc.exe) | 2.9 MiB | `native/win/x64` |
-| [comrak-0.55.0-x86_64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v0.55.0/comrak-0.55.0-x86_64-unknown-linux-musl) | 3.6 MiB | `native/linux/x64/musl` |
+| [comrak-0.56.0-aarch64-apple-darwin](https://github.com/kivikakk/comrak/releases/download/v0.56.0/comrak-0.56.0-aarch64-apple-darwin) | 2.9 MiB | `native/darwin/arm64` |
+| [comrak-0.56.0-aarch64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v0.56.0/comrak-0.56.0-aarch64-pc-windows-msvc.exe) | 2.8 MiB | `native/win/arm64` |
+| [comrak-0.56.0-aarch64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v0.56.0/comrak-0.56.0-aarch64-unknown-linux-musl) | 3.5 MiB | `native/linux/arm64/musl` |
+| [comrak-0.56.0-x86_64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v0.56.0/comrak-0.56.0-x86_64-pc-windows-msvc.exe) | 3.1 MiB | `native/win/x64` |
+| [comrak-0.56.0-x86_64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v0.56.0/comrak-0.56.0-x86_64-unknown-linux-musl) | 3.8 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -85,4 +84,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:11:35Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:46:15Z._
