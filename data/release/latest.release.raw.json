@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3257856,
       "digest": "sha256:f40ef8f7d68d89b4804c91835c4c5b88e5b00f6981411219ddcb73aa885940e1",
-      "download_count": 30,
+      "download_count": 34,
       "created_at": "2026-10-06T08:36:44Z",
       "updated_at": "2026-10-06T08:36:47Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.56.0/comrak-0.56.0-x86_64-pc-windows-msvc.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3972272,
       "digest": "sha256:0b8af46f89f5231ec3ec62e27a784314210c537e0ed30bc9c0ed14c8c3a909ad",
-      "download_count": 21,
+      "download_count": 23,
       "created_at": "2026-10-06T08:40:18Z",
       "updated_at": "2026-10-06T08:40:21Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.56.0/comrak-0.56.0-x86_64-unknown-linux-musl"
