@@ -30,7 +30,7 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 4/13 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 4/11 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 94 · **Merged PRs**: 507 · **Open PRs**: 3 · **Closed issues**: 258 · **Open issues**: 9 · **Commits**: 2293
+- **Releases**: 94 · **Merged PRs**: 507 · **Open PRs**: 4 · **Closed issues**: 258 · **Open issues**: 9 · **Commits**: 2293
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 35 | 0 | 1 | 0 | 44 |
-| last60d | 2026-08-15 | 2 | 39 | 0 | 3 | 0 | 61 |
-| 90d | 2026-07-16 | 2 | 41 | 0 | 3 | 0 | 63 |
-| last180d | 2026-04-17 | 4 | 64 | 2 | 5 | 0 | 133 |
-| 360d | 2025-10-19 | 13 | 180 | 3 | 28 | 3 | 392 |
-| last720d | 2024-10-24 | 30 | 273 | 3 | 76 | 7 | 1000 |
+| 30d | 2026-09-15 | 1 | 35 | 1 | 1 | 0 | 44 |
+| last60d | 2026-08-16 | 2 | 39 | 1 | 3 | 0 | 61 |
+| 90d | 2026-07-17 | 2 | 41 | 1 | 3 | 0 | 63 |
+| last180d | 2026-04-18 | 4 | 64 | 3 | 5 | 0 | 133 |
+| 360d | 2025-10-20 | 13 | 178 | 4 | 27 | 3 | 392 |
+| last720d | 2024-10-25 | 30 | 273 | 4 | 76 | 7 | 1000 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:48:19Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:28:26Z._
