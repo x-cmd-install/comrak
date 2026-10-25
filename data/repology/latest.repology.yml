@@ -1,3 +1,26 @@
+- repo: nix_stable_25_05
+  srcname: comrak
+  visiblename: comrak
+  version: 0.39.0
+  origversion: null
+  status: outdated
+  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - figsoda@pm.me
+    - ashe@kivikakk.ee
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_25_11
+  srcname: comrak
+  visiblename: comrak
+  version: 0.48.0
+  origversion: null
+  status: outdated
+  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - ashe@kivikakk.ee
+  licenses:
+    - BSD-2-Clause
 - repo: alpine_3_24
   subrepo: community
   srcname: comrak
@@ -234,43 +257,6 @@
     - BSD-2-Clause
   categories:
     - Unspecified
-- repo: ubuntu_25_10
-  subrepo: questing/universe
-  srcname: rust-comrak
-  binnames:
-    - librust-comrak-dev
-  visiblename: rust-comrak
-  version: 0.41.0
-  origversion: 0.41.0-1
-  status: outdated
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - arnaud.ferraris@gmail.com
-  categories:
-    - universe/misc
-- repo: fedora_40
-  subrepo: updates
-  srcname: rust-comrak
-  binnames:
-    - comrak
-    - rust-comrak-devel
-    - rust-comrak+default-devel
-    - rust-comrak+clap-devel
-    - rust-comrak+cli-devel
-    - rust-comrak+shell-words-devel
-    - rust-comrak+syntect-devel
-    - rust-comrak+xdg-devel
-    - rust-comrak-debuginfo
-    - rust-comrak-debugsource
-  visiblename: rust-comrak
-  version: 0.18.0
-  origversion: 0.18.0-4.fc40
-  status: outdated
-  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Unspecified
 - repo: fedora_40
   subrepo: release
   srcname: rust-comrak
@@ -288,6 +274,29 @@
   visiblename: rust-comrak
   version: 0.18.0
   origversion: 0.18.0-3.fc40
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+clap-devel
+    - rust-comrak+cli-devel
+    - rust-comrak+shell-words-devel
+    - rust-comrak+syntect-devel
+    - rust-comrak+xdg-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.18.0
+  origversion: 0.18.0-4.fc40
   status: outdated
   summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
   licenses:
@@ -403,29 +412,6 @@
     - figsoda@pm.me
   licenses:
     - BSD-2-Clause
-- repo: nix_stable_25_05
-  srcname: comrak
-  visiblename: comrak
-  version: 0.39.0
-  origversion: null
-  status: outdated
-  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
-  maintainers:
-    - figsoda@pm.me
-    - ashe@kivikakk.ee
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_25_11
-  srcname: comrak
-  visiblename: comrak
-  version: 0.48.0
-  origversion: null
-  status: outdated
-  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
-  maintainers:
-    - ashe@kivikakk.ee
-  licenses:
-    - BSD-2-Clause
 - repo: nix_stable_26_05
   srcname: comrak
   visiblename: comrak
@@ -440,9 +426,9 @@
 - repo: nix_unstable
   srcname: comrak
   visiblename: comrak
-  version: 0.56.0
+  version: 0.57.0
   origversion: null
-  status: outdated
+  status: newest
   summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
   maintainers:
     - ashe@kivikakk.ee
@@ -550,6 +536,20 @@
   visiblename: rust-comrak
   version: 0.29.0
   origversion: 0.29.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.41.0
+  origversion: 0.41.0-1
   status: outdated
   maintainers:
     - pkg-rust-maintainers@alioth-lists.debian.net
