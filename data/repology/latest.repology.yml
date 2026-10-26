@@ -1,26 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: comrak
-  visiblename: comrak
-  version: 0.39.0
-  origversion: null
-  status: outdated
-  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
-  maintainers:
-    - figsoda@pm.me
-    - ashe@kivikakk.ee
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_25_11
-  srcname: comrak
-  visiblename: comrak
-  version: 0.48.0
-  origversion: null
-  status: outdated
-  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
-  maintainers:
-    - ashe@kivikakk.ee
-  licenses:
-    - BSD-2-Clause
 - repo: alpine_3_24
   subrepo: community
   srcname: comrak
@@ -79,7 +56,7 @@
   visiblename: comrak
   version: 0.57.0
   origversion: 0.57.0-2
-  status: newest
+  status: outdated
   summary: CommonMark + GFM compatible Markdown parser and renderer
   maintainers:
     - alerque@aur
@@ -122,7 +99,7 @@
 - repo: crates_io
   srcname: comrak
   visiblename: comrak
-  version: 0.57.0
+  version: 0.58.0
   origversion: null
   status: newest
   summary: A 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
@@ -364,7 +341,7 @@
 - repo: homebrew
   srcname: comrak
   visiblename: comrak
-  version: 0.57.0
+  version: 0.58.0
   origversion: null
   status: newest
   summary: CommonMark + GFM compatible Markdown parser and renderer
@@ -412,6 +389,29 @@
     - figsoda@pm.me
   licenses:
     - BSD-2-Clause
+- repo: nix_stable_25_05
+  srcname: comrak
+  visiblename: comrak
+  version: 0.39.0
+  origversion: null
+  status: outdated
+  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - figsoda@pm.me
+    - ashe@kivikakk.ee
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_25_11
+  srcname: comrak
+  visiblename: comrak
+  version: 0.48.0
+  origversion: null
+  status: outdated
+  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - ashe@kivikakk.ee
+  licenses:
+    - BSD-2-Clause
 - repo: nix_stable_26_05
   srcname: comrak
   visiblename: comrak
@@ -428,14 +428,14 @@
   visiblename: comrak
   version: 0.57.0
   origversion: null
-  status: newest
+  status: outdated
   summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
   maintainers:
     - ashe@kivikakk.ee
   licenses:
     - BSD-2-Clause
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: rust-comrak
   binnames:
     - librust-comrak-dev
@@ -449,7 +449,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: rust-comrak
   binnames:
     - librust-comrak-dev
@@ -509,7 +509,7 @@
   subrepo: main
   binname: comrak
   visiblename: comrak
-  version: 0.57.0
+  version: 0.58.0
   origversion: null
   status: newest
   licenses:
