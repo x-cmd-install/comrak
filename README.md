@@ -14,11 +14,11 @@ x install comrak
 
 ## Code insight
 
-Total: **48,415** lines of code across **110** files in the top 5 languages.
+Total: **48,534** lines of code across **111** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 46,914 | 772 | 3,169 | 99 |
+| Rust | 47,033 | 772 | 3,182 | 100 |
 | OCaml | 723 | 0 | 46 | 1 |
 | Nix | 239 | 2 | 26 | 4 |
 | Toml | 158 | 6 | 28 | 3 |
@@ -42,42 +42,42 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.57.0` (2026-10-21)
-- **Last commit**: 2026-10-24
+- **Latest**: `v0.58.0` (2026-10-26)
+- **Last commit**: 2026-10-26
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,724 · **Forks**: 201 · **Open issues**: 270 · **Contributors**: 93
+- **Stars**: 1,725 · **Forks**: 201 · **Open issues**: 271 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 95 · **Merged PRs**: 514 · **Open PRs**: 3 · **Closed issues**: 261 · **Open issues**: 9 · **Commits**: 2312
+- **Releases**: 96 · **Merged PRs**: 516 · **Open PRs**: 3 · **Closed issues**: 261 · **Open issues**: 10 · **Commits**: 2320
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 33 | 0 | 3 | 1 | 33 |
-| last60d | 2026-08-26 | 3 | 46 | 0 | 5 | 1 | 72 |
-| 90d | 2026-07-27 | 3 | 47 | 0 | 5 | 1 | 74 |
-| last180d | 2026-04-28 | 5 | 67 | 1 | 7 | 1 | 141 |
-| 360d | 2025-10-30 | 11 | 158 | 3 | 26 | 4 | 314 |
-| last720d | 2024-11-04 | 31 | 278 | 3 | 76 | 7 | 1018 |
+| 30d | 2026-09-26 | 3 | 35 | 0 | 3 | 2 | 39 |
+| last60d | 2026-08-27 | 4 | 48 | 0 | 5 | 2 | 78 |
+| 90d | 2026-07-28 | 4 | 49 | 0 | 5 | 2 | 80 |
+| last180d | 2026-04-29 | 6 | 69 | 1 | 7 | 2 | 147 |
+| 360d | 2025-10-31 | 11 | 158 | 3 | 25 | 5 | 320 |
+| last720d | 2024-11-05 | 32 | 280 | 3 | 76 | 8 | 1026 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [comrak-0.57.0-aarch64-apple-darwin](https://github.com/kivikakk/comrak/releases/download/v0.57.0/comrak-0.57.0-aarch64-apple-darwin) | 2.9 MiB | `native/darwin/arm64` |
-| [comrak-0.57.0-aarch64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v0.57.0/comrak-0.57.0-aarch64-pc-windows-msvc.exe) | 2.8 MiB | `native/win/arm64` |
-| [comrak-0.57.0-aarch64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v0.57.0/comrak-0.57.0-aarch64-unknown-linux-musl) | 3.5 MiB | `native/linux/arm64/musl` |
-| [comrak-0.57.0-x86_64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v0.57.0/comrak-0.57.0-x86_64-pc-windows-msvc.exe) | 3.1 MiB | `native/win/x64` |
-| [comrak-0.57.0-x86_64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v0.57.0/comrak-0.57.0-x86_64-unknown-linux-musl) | 3.8 MiB | `native/linux/x64/musl` |
+| [comrak-0.58.0-aarch64-apple-darwin](https://github.com/kivikakk/comrak/releases/download/v0.58.0/comrak-0.58.0-aarch64-apple-darwin) | 3.0 MiB | `native/darwin/arm64` |
+| [comrak-0.58.0-aarch64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v0.58.0/comrak-0.58.0-aarch64-pc-windows-msvc.exe) | 2.8 MiB | `native/win/arm64` |
+| [comrak-0.58.0-aarch64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v0.58.0/comrak-0.58.0-aarch64-unknown-linux-musl) | 3.6 MiB | `native/linux/arm64/musl` |
+| [comrak-0.58.0-x86_64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v0.58.0/comrak-0.58.0-x86_64-pc-windows-msvc.exe) | 3.1 MiB | `native/win/x64` |
+| [comrak-0.58.0-x86_64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v0.58.0/comrak-0.58.0-x86_64-unknown-linux-musl) | 3.8 MiB | `native/linux/x64/musl` |
 
 ## Distribution status
 
-Reported by **46** distros on [repology.org](https://repology.org/project/comrak). **5** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
+Reported by **46** distros on [repology.org](https://repology.org/project/comrak). **3** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -86,8 +86,8 @@ Reported by **46** distros on [repology.org](https://repology.org/project/comrak
 | Debian 13 | `0.29.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.41.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.20.0` | ⚠️ outdated |
-| Homebrew | `0.57.0` | ✅ latest |
-| Nix unstable | `0.57.0` | ✅ latest |
+| Homebrew | `0.58.0` | ✅ latest |
+| Nix unstable | `0.57.0` | ⚠️ outdated |
 | Void | `0.51.0` | ⚠️ outdated |
 | Alpine edge | `0.56.0` | ⚠️ outdated |
 
@@ -100,4 +100,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:31:59Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:33:47Z._
