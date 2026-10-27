@@ -1,67 +1,10 @@
-- repo: alpine_3_24
-  subrepo: community
+- repo: homebrew
   srcname: comrak
-  binname: comrak
   visiblename: comrak
-  version: 0.55.0
-  origversion: 0.55.0-r0
-  status: outdated
+  version: HEAD
+  origversion: null
+  status: rolling
   summary: CommonMark + GFM compatible Markdown parser and renderer
-  maintainers:
-    - qaq@qaq.land
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_24
-  subrepo: community
-  srcname: comrak
-  binname: comrak-doc
-  visiblename: comrak-doc
-  version: 0.55.0
-  origversion: 0.55.0-r0
-  status: outdated
-  summary: CommonMark + GFM compatible Markdown parser and renderer (documentation)
-  maintainers:
-    - qaq@qaq.land
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_edge
-  subrepo: community
-  srcname: comrak
-  binname: comrak
-  visiblename: comrak
-  version: 0.56.0
-  origversion: 0.56.0-r0
-  status: outdated
-  summary: CommonMark + GFM compatible Markdown parser and renderer
-  maintainers:
-    - qaq@qaq.land
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_edge
-  subrepo: community
-  srcname: comrak
-  binname: comrak-doc
-  visiblename: comrak-doc
-  version: 0.56.0
-  origversion: 0.56.0-r0
-  status: outdated
-  summary: CommonMark + GFM compatible Markdown parser and renderer (documentation)
-  maintainers:
-    - qaq@qaq.land
-  licenses:
-    - BSD-2-Clause
-- repo: aur
-  srcname: comrak
-  binname: comrak
-  visiblename: comrak
-  version: 0.57.0
-  origversion: 0.57.0-2
-  status: outdated
-  summary: CommonMark + GFM compatible Markdown parser and renderer
-  maintainers:
-    - alerque@aur
-  licenses:
-    - BSD-2-Clause
 - repo: aur
   srcname: comrak-git
   binname: comrak-git
@@ -74,6 +17,69 @@
     - alerque@aur
   licenses:
     - BSD
+- repo: alpine_3_24
+  subrepo: community
+  srcname: comrak
+  binname: comrak
+  visiblename: comrak
+  version: 0.55.0
+  origversion: 0.55.0-r0
+  status: outdated
+  summary: CommonMark + GFM compatible Markdown parser and renderer
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: comrak
+  binname: comrak-doc
+  visiblename: comrak-doc
+  version: 0.55.0
+  origversion: 0.55.0-r0
+  status: outdated
+  summary: CommonMark + GFM compatible Markdown parser and renderer (documentation)
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: comrak
+  binname: comrak
+  visiblename: comrak
+  version: 0.56.0
+  origversion: 0.56.0-r0
+  status: outdated
+  summary: CommonMark + GFM compatible Markdown parser and renderer
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: comrak
+  binname: comrak-doc
+  visiblename: comrak-doc
+  version: 0.56.0
+  origversion: 0.56.0-r0
+  status: outdated
+  summary: CommonMark + GFM compatible Markdown parser and renderer (documentation)
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - BSD-2-Clause
+- repo: arch
+  subrepo: extra
+  srcname: comrak
+  binname: comrak
+  visiblename: comrak
+  version: 0.59.0
+  origversion: 0.59.0-2
+  status: newest
+  summary: CommonMark + GFM compatible Markdown parser and renderer
+  licenses:
+    - BSD-2-Clause
 - repo: chimera
   subrepo: user
   srcname: comrak
@@ -99,7 +105,7 @@
 - repo: crates_io
   srcname: comrak
   visiblename: comrak
-  version: 0.58.0
+  version: 0.59.0
   origversion: null
   status: newest
   summary: A 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
@@ -341,16 +347,9 @@
 - repo: homebrew
   srcname: comrak
   visiblename: comrak
-  version: 0.58.0
+  version: 0.59.0
   origversion: null
   status: newest
-  summary: CommonMark + GFM compatible Markdown parser and renderer
-- repo: homebrew
-  srcname: comrak
-  visiblename: comrak
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: CommonMark + GFM compatible Markdown parser and renderer
 - repo: kali_rolling
   subrepo: main
@@ -509,7 +508,7 @@
   subrepo: main
   binname: comrak
   visiblename: comrak
-  version: 0.58.0
+  version: 0.59.0
   origversion: null
   status: newest
   licenses:
