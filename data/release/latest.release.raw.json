@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3096240,
       "digest": "sha256:bb052a364c6d409807ac02537e96089d0fe008a0d0a05faebcd7ff4be4467a97",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-10-26T06:37:23Z",
       "updated_at": "2026-10-26T06:37:25Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.59.0/comrak-0.59.0-aarch64-apple-darwin"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2936320,
       "digest": "sha256:ba88fce620251d3c966814fa6ae77eeedcd57918ef0b0faf6d255d0227349fdd",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-10-26T06:36:20Z",
       "updated_at": "2026-10-26T06:36:23Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.59.0/comrak-0.59.0-aarch64-pc-windows-msvc.exe"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3737016,
       "digest": "sha256:0d1d505acc8c5415bd7fedaefb9472979990a840c876d55e62ffdf1a721ba572",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-10-26T06:37:25Z",
       "updated_at": "2026-10-26T06:37:27Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.59.0/comrak-0.59.0-aarch64-unknown-linux-musl"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3290624,
       "digest": "sha256:ac62328adb9344a11e19f7a5d641361bb29118fea56233f83acddd7eb4d0bb2c",
-      "download_count": 6,
+      "download_count": 30,
       "created_at": "2026-10-26T06:36:23Z",
       "updated_at": "2026-10-26T06:36:25Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.59.0/comrak-0.59.0-x86_64-pc-windows-msvc.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4011376,
       "digest": "sha256:7ece0584672edce76df49aae3a684fbe1a104e5f4f28961393fc0312c846e313",
-      "download_count": 4,
+      "download_count": 12,
       "created_at": "2026-10-26T06:37:13Z",
       "updated_at": "2026-10-26T06:37:23Z",
       "browser_download_url": "https://github.com/kivikakk/comrak/releases/download/v0.59.0/comrak-0.59.0-x86_64-unknown-linux-musl"
