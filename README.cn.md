@@ -48,7 +48,7 @@ x install comrak
 
 ## 流行度
 
-- **Star**: 1,726 · **Fork**: 201 · **开放 issue**: 272 · **贡献者**: 93
+- **Star**: 1,727 · **Fork**: 202 · **开放 issue**: 272 · **贡献者**: 93
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install comrak
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 4 | 39 | 0 | 3 | 3 | 45 |
-| last60d | 2026-08-28 | 5 | 52 | 0 | 4 | 3 | 84 |
-| 90d | 2026-07-29 | 5 | 53 | 0 | 5 | 3 | 86 |
-| last180d | 2026-04-30 | 7 | 73 | 1 | 7 | 3 | 153 |
-| 360d | 2025-11-01 | 12 | 157 | 3 | 25 | 6 | 326 |
-| last720d | 2024-11-06 | 33 | 284 | 3 | 76 | 9 | 1036 |
+| 30d | 2026-09-28 | 4 | 39 | 0 | 3 | 3 | 45 |
+| last60d | 2026-08-29 | 5 | 52 | 0 | 4 | 3 | 84 |
+| 90d | 2026-07-30 | 5 | 53 | 0 | 5 | 3 | 86 |
+| last180d | 2026-05-01 | 7 | 73 | 1 | 7 | 3 | 153 |
+| 360d | 2025-11-02 | 12 | 155 | 2 | 25 | 6 | 326 |
+| last720d | 2024-11-07 | 33 | 284 | 3 | 76 | 9 | 1036 |
 
 ## Release 资产
 
@@ -77,7 +77,7 @@ x install comrak
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/comrak) 上共有 **46** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**40** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/comrak) 上共有 **47** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**40** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -87,7 +87,7 @@ x install comrak
 | Ubuntu 26.04 LTS | `0.41.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.20.0` | ⚠️ outdated |
 | Arch | `0.59.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.59.0` | ✅ latest |
 | Nix unstable | `0.57.0` | ⚠️ outdated |
 | Void | `0.51.0` | ⚠️ outdated |
 | Alpine edge | `0.56.0` | ⚠️ outdated |
@@ -101,4 +101,4 @@ comrak 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T04:52:21Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T05:28:20Z._

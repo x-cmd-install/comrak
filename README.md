@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,726 · **Forks**: 201 · **Open issues**: 272 · **Contributors**: 93
+- **Stars**: 1,727 · **Forks**: 202 · **Open issues**: 272 · **Contributors**: 93
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 4 | 39 | 0 | 3 | 3 | 45 |
-| last60d | 2026-08-28 | 5 | 52 | 0 | 4 | 3 | 84 |
-| 90d | 2026-07-29 | 5 | 53 | 0 | 5 | 3 | 86 |
-| last180d | 2026-04-30 | 7 | 73 | 1 | 7 | 3 | 153 |
-| 360d | 2025-11-01 | 12 | 157 | 3 | 25 | 6 | 326 |
-| last720d | 2024-11-06 | 33 | 284 | 3 | 76 | 9 | 1036 |
+| 30d | 2026-09-28 | 4 | 39 | 0 | 3 | 3 | 45 |
+| last60d | 2026-08-29 | 5 | 52 | 0 | 4 | 3 | 84 |
+| 90d | 2026-07-30 | 5 | 53 | 0 | 5 | 3 | 86 |
+| last180d | 2026-05-01 | 7 | 73 | 1 | 7 | 3 | 153 |
+| 360d | 2025-11-02 | 12 | 155 | 2 | 25 | 6 | 326 |
+| last720d | 2024-11-07 | 33 | 284 | 3 | 76 | 9 | 1036 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **46** distros on [repology.org](https://repology.org/project/comrak). **4** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
+Reported by **47** distros on [repology.org](https://repology.org/project/comrak). **5** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,7 +87,7 @@ Reported by **46** distros on [repology.org](https://repology.org/project/comrak
 | Ubuntu 26.04 LTS | `0.41.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.20.0` | ⚠️ outdated |
 | Arch | `0.59.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.59.0` | ✅ latest |
 | Nix unstable | `0.57.0` | ⚠️ outdated |
 | Void | `0.51.0` | ⚠️ outdated |
 | Alpine edge | `0.56.0` | ⚠️ outdated |
@@ -101,4 +101,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:52:20Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:28:20Z._
