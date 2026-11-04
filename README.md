@@ -14,11 +14,11 @@ x install comrak
 
 ## Code insight
 
-Total: **49,425** lines of code across **117** files in the top 5 languages.
+Total: **50,340** lines of code across **119** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 47,762 | 771 | 3,258 | 105 |
+| Rust | 48,677 | 770 | 3,341 | 107 |
 | OCaml | 723 | 0 | 46 | 1 |
 | Nix | 281 | 2 | 30 | 5 |
 | Css | 245 | 0 | 63 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.59.0` (2026-10-26)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,733 · **Forks**: 202 · **Open issues**: 275 · **Contributors**: 93
+- **Stars**: 1,734 · **Forks**: 203 · **Open issues**: 275 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 523 · **Open PRs**: 3 · **Closed issues**: 262 · **Open issues**: 13 · **Commits**: 2353
+- **Releases**: 97 · **Merged PRs**: 527 · **Open PRs**: 3 · **Closed issues**: 263 · **Open issues**: 12 · **Commits**: 2369
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 4 | 20 | 0 | 4 | 5 | 46 |
-| last60d | 2026-09-04 | 5 | 54 | 0 | 5 | 5 | 99 |
-| 90d | 2026-08-05 | 5 | 56 | 0 | 6 | 5 | 106 |
-| last180d | 2026-05-07 | 7 | 75 | 1 | 8 | 5 | 171 |
-| 360d | 2025-11-08 | 12 | 156 | 2 | 25 | 8 | 335 |
-| last720d | 2024-11-13 | 33 | 286 | 3 | 76 | 11 | 1055 |
+| 30d | 2026-10-05 | 4 | 23 | 0 | 5 | 4 | 58 |
+| last60d | 2026-09-05 | 5 | 58 | 0 | 6 | 4 | 111 |
+| 90d | 2026-08-06 | 5 | 60 | 0 | 7 | 4 | 118 |
+| last180d | 2026-05-08 | 7 | 79 | 1 | 9 | 4 | 183 |
+| 360d | 2025-11-09 | 12 | 160 | 2 | 26 | 7 | 347 |
+| last720d | 2024-11-14 | 33 | 290 | 3 | 77 | 10 | 1070 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **47** distros on [repology.org](https://repology.org/project/comrak). **5** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
+Reported by **47** distros on [repology.org](https://repology.org/project/comrak). **6** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -88,7 +88,7 @@ Reported by **47** distros on [repology.org](https://repology.org/project/comrak
 | Ubuntu 24.04 LTS | `0.20.0` | ⚠️ outdated |
 | Arch | `0.59.0` | ✅ latest |
 | Homebrew | `0.59.0` | ✅ latest |
-| Nix unstable | `0.57.0` | ⚠️ outdated |
+| Nix unstable | `0.59.0` | ✅ latest |
 | Void | `0.51.0` | ⚠️ outdated |
 | Alpine edge | `0.56.0` | ⚠️ outdated |
 
@@ -101,4 +101,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:33:48Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:05:45Z._
