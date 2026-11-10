@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.59.0` (2026-10-26)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-09
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,734 · **Forks**: 205 · **Open issues**: 277 · **Contributors**: 94
+- **Stars**: 1,735 · **Forks**: 205 · **Open issues**: 278 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 534 · **Open PRs**: 3 · **Closed issues**: 265 · **Open issues**: 12 · **Commits**: 2416
+- **Releases**: 97 · **Merged PRs**: 535 · **Open PRs**: 3 · **Closed issues**: 266 · **Open issues**: 12 · **Commits**: 2418
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 3 | 29 | 0 | 7 | 4 | 95 |
-| last60d | 2026-09-09 | 4 | 64 | 0 | 7 | 4 | 149 |
-| 90d | 2026-08-10 | 5 | 66 | 0 | 9 | 4 | 157 |
-| last180d | 2026-05-12 | 7 | 84 | 1 | 11 | 4 | 222 |
-| 360d | 2025-11-13 | 12 | 162 | 2 | 27 | 7 | 373 |
-| last720d | 2024-11-18 | 33 | 295 | 3 | 79 | 10 | 1112 |
+| 30d | 2026-10-11 | 3 | 30 | 0 | 8 | 4 | 96 |
+| last60d | 2026-09-11 | 4 | 65 | 0 | 8 | 4 | 150 |
+| 90d | 2026-08-12 | 5 | 67 | 0 | 10 | 4 | 158 |
+| last180d | 2026-05-14 | 7 | 85 | 1 | 12 | 4 | 223 |
+| 360d | 2025-11-15 | 11 | 161 | 2 | 28 | 7 | 374 |
+| last720d | 2024-11-20 | 33 | 296 | 3 | 80 | 10 | 1114 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **50** distros on [repology.org](https://repology.org/project/comrak). **11** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
+Reported by **51** distros on [repology.org](https://repology.org/project/comrak). **11** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -101,4 +101,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:52:08Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:07:11Z._
