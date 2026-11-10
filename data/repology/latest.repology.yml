@@ -1,3 +1,70 @@
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.54.0
+  origversion: 0.54.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+    - tsimonq2@debian.org
+  categories:
+    - misc
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: comrak
+  binname: comrak
+  visiblename: comrak
+  version: 0.59.0
+  origversion: 0.59.0-2
+  status: newest
+  summary: CommonMark + GFM compatible Markdown parser and renderer
+  licenses:
+    - BSD-2-Clause
+- repo: raspbian_testing
+  subrepo: main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.54.0
+  origversion: 0.54.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+    - tsimonq2@debian.org
+  categories:
+    - misc
+- repo: deepin_23
+  subrepo: main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.20.0
+  origversion: 0.20.0-3
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.20.0
+  origversion: 0.20.0-3
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
 - repo: alpine_3_24
   subrepo: community
   srcname: comrak
@@ -146,70 +213,6 @@
     - tsimonq2@debian.org
   categories:
     - misc
-- repo: deepin_23
-  subrepo: main
-  srcname: rust-comrak
-  binnames:
-    - librust-comrak-dev
-  visiblename: rust-comrak
-  version: 0.20.0
-  origversion: 0.20.0-3
-  status: outdated
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - arnaud.ferraris@gmail.com
-  categories:
-    - misc
-- repo: deepin_25
-  subrepo: main
-  srcname: rust-comrak
-  binnames:
-    - librust-comrak-dev
-  visiblename: rust-comrak
-  version: 0.20.0
-  origversion: 0.20.0-3
-  status: outdated
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - arnaud.ferraris@gmail.com
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: rust-comrak
-  binnames:
-    - librust-comrak-dev
-  visiblename: rust-comrak
-  version: 0.54.0
-  origversion: 0.54.0-2
-  status: outdated
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - arnaud.ferraris@gmail.com
-    - tsimonq2@debian.org
-  categories:
-    - misc
-- repo: fedora_39
-  subrepo: release
-  srcname: rust-comrak
-  binnames:
-    - comrak
-    - rust-comrak-devel
-    - rust-comrak+default-devel
-    - rust-comrak+clap-devel
-    - rust-comrak+cli-devel
-    - rust-comrak+shell-words-devel
-    - rust-comrak+syntect-devel
-    - rust-comrak+xdg-devel
-    - rust-comrak-debuginfo
-    - rust-comrak-debugsource
-  visiblename: rust-comrak
-  version: 0.18.0
-  origversion: 0.18.0-2.fc39
-  status: outdated
-  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Unspecified
 - repo: fedora_39
   subrepo: updates
   srcname: rust-comrak
@@ -227,6 +230,29 @@
   visiblename: rust-comrak
   version: 0.18.0
   origversion: 0.18.0-4.fc39
+  status: outdated
+  summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: release
+  srcname: rust-comrak
+  binnames:
+    - comrak
+    - rust-comrak-devel
+    - rust-comrak+default-devel
+    - rust-comrak+clap-devel
+    - rust-comrak+cli-devel
+    - rust-comrak+shell-words-devel
+    - rust-comrak+syntect-devel
+    - rust-comrak+xdg-devel
+    - rust-comrak-debuginfo
+    - rust-comrak-debugsource
+  visiblename: rust-comrak
+  version: 0.18.0
+  origversion: 0.18.0-2.fc39
   status: outdated
   summary: 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
   licenses:
@@ -377,17 +403,6 @@
   summary: CommonMark + GFM compatible Markdown parser and renderer
   licenses:
     - BSD-2-Clause
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: comrak
-  binname: comrak
-  visiblename: comrak
-  version: 0.59.0
-  origversion: 0.59.0-2
-  status: newest
-  summary: CommonMark + GFM compatible Markdown parser and renderer
-  licenses:
-    - BSD-2-Clause
 - repo: nix_stable_24_05
   srcname: comrak
   visiblename: comrak
@@ -467,7 +482,7 @@
   licenses:
     - BSD-2-Clause
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: rust-comrak
   binnames:
     - librust-comrak-dev
@@ -481,7 +496,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: rust-comrak
   binnames:
     - librust-comrak-dev
@@ -520,21 +535,6 @@
   maintainers:
     - pkg-rust-maintainers@alioth-lists.debian.net
     - arnaud.ferraris@gmail.com
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: rust-comrak
-  binnames:
-    - librust-comrak-dev
-  visiblename: rust-comrak
-  version: 0.54.0
-  origversion: 0.54.0-2
-  status: outdated
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - arnaud.ferraris@gmail.com
-    - tsimonq2@debian.org
   categories:
     - misc
 - repo: scoop
@@ -628,6 +628,21 @@
   maintainers:
     - pkg-rust-maintainers@alioth-lists.debian.net
     - arnaud.ferraris@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.54.0
+  origversion: 0.54.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+    - tsimonq2@debian.org
   categories:
     - universe/misc
 - repo: void_x86_64
