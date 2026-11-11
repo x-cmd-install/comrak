@@ -14,15 +14,15 @@ x install comrak
 
 ## Code insight
 
-Total: **54,944** lines of code across **129** files in the top 5 languages.
+Total: **58,298** lines of code across **136** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 53,203 | 739 | 3,613 | 117 |
+| Rust | 56,549 | 740 | 3,880 | 124 |
 | OCaml | 723 | 0 | 46 | 1 |
 | Css | 306 | 0 | 77 | 2 |
 | Nix | 281 | 2 | 30 | 5 |
-| Toml | 180 | 6 | 32 | 4 |
+| Toml | 188 | 6 | 33 | 4 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.59.0` (2026-10-26)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,735 · **Forks**: 205 · **Open issues**: 278 · **Contributors**: 93
+- **Stars**: 1,736 · **Forks**: 206 · **Open issues**: 278 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 535 · **Open PRs**: 3 · **Closed issues**: 266 · **Open issues**: 12 · **Commits**: 2418
+- **Releases**: 97 · **Merged PRs**: 537 · **Open PRs**: 2 · **Closed issues**: 267 · **Open issues**: 11 · **Commits**: 2438
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 3 | 30 | 0 | 8 | 4 | 96 |
-| last60d | 2026-09-11 | 4 | 65 | 0 | 8 | 4 | 150 |
-| 90d | 2026-08-12 | 5 | 67 | 0 | 10 | 4 | 158 |
-| last180d | 2026-05-14 | 7 | 85 | 1 | 12 | 4 | 223 |
-| 360d | 2025-11-15 | 11 | 161 | 2 | 28 | 7 | 374 |
-| last720d | 2024-11-20 | 33 | 296 | 3 | 80 | 10 | 1114 |
+| 30d | 2026-10-12 | 3 | 31 | 0 | 8 | 4 | 114 |
+| last60d | 2026-09-12 | 4 | 66 | 0 | 8 | 4 | 168 |
+| 90d | 2026-08-13 | 5 | 68 | 0 | 10 | 4 | 176 |
+| last180d | 2026-05-15 | 7 | 87 | 0 | 12 | 4 | 241 |
+| 360d | 2025-11-16 | 11 | 163 | 1 | 28 | 7 | 392 |
+| last720d | 2024-11-21 | 33 | 297 | 2 | 80 | 9 | 1133 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:07:11Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:59:09Z._
