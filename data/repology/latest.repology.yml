@@ -1,34 +1,13 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: comrak
-  binname: comrak
-  visiblename: comrak
-  version: 0.59.0
-  origversion: 0.59.0-2
-  status: newest
-  summary: CommonMark + GFM compatible Markdown parser and renderer
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_24_05
+- repo: nix_stable_25_05
   srcname: comrak
   visiblename: comrak
-  version: 0.23.0
-  origversion: null
-  status: outdated
-  summary: A CommonMark-compatible GitHub Flavored Markdown parser and formatter
-  maintainers:
-    - figsoda@pm.me
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_24_11
-  srcname: comrak
-  visiblename: comrak
-  version: 0.23.0
+  version: 0.39.0
   origversion: null
   status: outdated
   summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
   maintainers:
     - figsoda@pm.me
+    - ashe@kivikakk.ee
   licenses:
     - BSD-2-Clause
 - repo: alpine_3_24
@@ -44,21 +23,6 @@
     - qaq@qaq.land
   licenses:
     - BSD-2-Clause
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: rust-comrak
-  binnames:
-    - librust-comrak-dev
-  visiblename: rust-comrak
-  version: 0.54.0
-  origversion: 0.54.0-2
-  status: outdated
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - arnaud.ferraris@gmail.com
-    - tsimonq2@debian.org
-  categories:
-    - misc
 - repo: alpine_3_24
   subrepo: community
   srcname: comrak
@@ -150,6 +114,13 @@
   origversion: null
   status: newest
   summary: A 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
+- repo: crates_io
+  srcname: comrak
+  visiblename: comrak
+  version: 1.0.0-rc1
+  origversion: 1.0.0-rc.1
+  status: devel
+  summary: A 100% CommonMark-compatible GitHub Flavored Markdown parser and formatter
 - repo: debian_13
   subrepo: trixie/main
   srcname: rust-comrak
@@ -220,6 +191,21 @@
   maintainers:
     - pkg-rust-maintainers@alioth-lists.debian.net
     - arnaud.ferraris@gmail.com
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: rust-comrak
+  binnames:
+    - librust-comrak-dev
+  visiblename: rust-comrak
+  version: 0.54.0
+  origversion: 0.54.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - arnaud.ferraris@gmail.com
+    - tsimonq2@debian.org
+  categories:
+    - misc
 - repo: fedora_39
   subrepo: updates
   srcname: rust-comrak
@@ -243,6 +229,17 @@
     - BSD-2-Clause
   categories:
     - Unspecified
+- repo: nix_stable_24_11
+  srcname: comrak
+  visiblename: comrak
+  version: 0.23.0
+  origversion: null
+  status: outdated
+  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - BSD-2-Clause
 - repo: fedora_39
   subrepo: release
   srcname: rust-comrak
@@ -410,16 +407,26 @@
   summary: CommonMark + GFM compatible Markdown parser and renderer
   licenses:
     - BSD-2-Clause
-- repo: nix_stable_25_05
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: comrak
+  binname: comrak
+  visiblename: comrak
+  version: 0.59.0
+  origversion: 0.59.0-2
+  status: newest
+  summary: CommonMark + GFM compatible Markdown parser and renderer
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_24_05
   srcname: comrak
   visiblename: comrak
-  version: 0.39.0
+  version: 0.23.0
   origversion: null
   status: outdated
-  summary: CommonMark-compatible GitHub Flavored Markdown parser and formatter
+  summary: A CommonMark-compatible GitHub Flavored Markdown parser and formatter
   maintainers:
     - figsoda@pm.me
-    - ashe@kivikakk.ee
   licenses:
     - BSD-2-Clause
 - repo: nix_stable_25_11
@@ -467,7 +474,7 @@
   licenses:
     - BSD-2-Clause
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: rust-comrak
   binnames:
     - librust-comrak-dev
@@ -481,7 +488,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: rust-comrak
   binnames:
     - librust-comrak-dev
