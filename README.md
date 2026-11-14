@@ -14,13 +14,13 @@ x install comrak
 
 ## Code insight
 
-Total: **58,964** lines of code across **137** files in the top 5 languages.
+Total: **59,034** lines of code across **137** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 57,196 | 739 | 3,924 | 125 |
-| OCaml | 723 | 0 | 46 | 1 |
-| Css | 313 | 0 | 78 | 2 |
+| Rust | 57,263 | 739 | 3,930 | 125 |
+| OCaml | 722 | 0 | 46 | 1 |
+| Css | 316 | 0 | 79 | 2 |
 | Nix | 281 | 2 | 30 | 5 |
 | Toml | 188 | 6 | 33 | 4 |
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,737 · **Forks**: 206 · **Open issues**: 279 · **Contributors**: 94
+- **Stars**: 1,737 · **Forks**: 206 · **Open issues**: 280 · **Contributors**: 94
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 544 · **Open PRs**: 2 · **Closed issues**: 268 · **Open issues**: 11 · **Commits**: 2473
+- **Releases**: 98 · **Merged PRs**: 545 · **Open PRs**: 1 · **Closed issues**: 269 · **Open issues**: 11 · **Commits**: 2480
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 4 | 35 | 1 | 8 | 4 | 141 |
-| last60d | 2026-09-14 | 5 | 70 | 1 | 9 | 4 | 195 |
-| 90d | 2026-08-15 | 6 | 74 | 1 | 11 | 4 | 203 |
-| last180d | 2026-05-17 | 8 | 93 | 1 | 12 | 4 | 268 |
-| 360d | 2025-11-18 | 12 | 168 | 2 | 29 | 7 | 419 |
-| last720d | 2024-11-23 | 33 | 303 | 2 | 81 | 9 | 1159 |
+| 30d | 2026-10-15 | 4 | 35 | 0 | 9 | 4 | 147 |
+| last60d | 2026-09-15 | 5 | 71 | 0 | 10 | 4 | 201 |
+| 90d | 2026-08-16 | 6 | 75 | 0 | 12 | 4 | 209 |
+| last180d | 2026-05-18 | 8 | 94 | 0 | 13 | 4 | 274 |
+| 360d | 2025-11-19 | 12 | 169 | 1 | 30 | 7 | 425 |
+| last720d | 2024-11-24 | 33 | 304 | 1 | 82 | 9 | 1166 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:27:28Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:17:17Z._
