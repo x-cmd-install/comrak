@@ -14,13 +14,13 @@ x install comrak
 
 ## 代码洞察
 
-合计: **61,330** 行代码（覆盖前 5 种语言、共 **138** 个文件）。
+合计: **61,451** 行代码（覆盖前 5 种语言、共 **138** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 59,542 | 703 | 4,103 | 126 |
+| Rust | 59,661 | 701 | 4,115 | 126 |
 | OCaml | 722 | 0 | 46 | 1 |
-| Css | 316 | 0 | 79 | 2 |
+| Css | 318 | 0 | 80 | 2 |
 | Nix | 283 | 2 | 30 | 5 |
 | Toml | 190 | 6 | 33 | 4 |
 
@@ -38,22 +38,22 @@ x install comrak
 
 ## 流行度
 
-- **Star**: 1,748 · **Fork**: 207 · **开放 issue**: 281 · **贡献者**: 94
+- **Star**: 1,749 · **Fork**: 207 · **开放 issue**: 281 · **贡献者**: 94
 
 ## 累计统计
 
-- **发布数**: 101 · **已合并 PR**: 561 · **开放 PR**: 1 · **已关闭 issue**: 271 · **开放 issue**: 10 · **提交数**: 2564
+- **发布数**: 101 · **已合并 PR**: 564 · **开放 PR**: 1 · **已关闭 issue**: 271 · **开放 issue**: 10 · **提交数**: 2578
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 7 | 47 | 0 | 10 | 3 | 207 |
-| last60d | 2026-09-21 | 8 | 83 | 0 | 12 | 3 | 256 |
-| 90d | 2026-08-22 | 9 | 91 | 0 | 14 | 3 | 277 |
-| last180d | 2026-05-24 | 11 | 110 | 0 | 15 | 3 | 341 |
-| 360d | 2025-11-25 | 15 | 181 | 1 | 29 | 6 | 487 |
-| last720d | 2024-11-30 | 35 | 317 | 1 | 83 | 8 | 1235 |
+| 30d | 2026-10-22 | 6 | 50 | 0 | 9 | 3 | 218 |
+| last60d | 2026-09-22 | 8 | 85 | 0 | 12 | 3 | 267 |
+| 90d | 2026-08-23 | 9 | 94 | 0 | 14 | 3 | 288 |
+| last180d | 2026-05-25 | 11 | 113 | 0 | 15 | 3 | 352 |
+| 360d | 2025-11-26 | 15 | 184 | 1 | 29 | 6 | 498 |
+| last720d | 2024-12-01 | 35 | 320 | 1 | 83 | 8 | 1249 |
 
 ## Release 资产
 
@@ -65,6 +65,23 @@ x install comrak
 | [comrak-1.1.0-x86_64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v1.1.0/comrak-1.1.0-x86_64-pc-windows-msvc.exe) | 3.3 MiB | `native/win/x64` |
 | [comrak-1.1.0-x86_64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v1.1.0/comrak-1.1.0-x86_64-unknown-linux-musl) | 4.0 MiB | `native/linux/x64/musl` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/comrak) 上共有 **50** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**43** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `0.54.0` | ⚠️ outdated |
+| Debian 14 | `0.54.0` | ⚠️ outdated |
+| Debian 13 | `0.29.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.41.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.20.0` | ⚠️ outdated |
+| Arch | `1.1.0` | ✅ latest |
+| Homebrew | `1.1.0` | ✅ latest |
+| Nix unstable | `1.0.0` | ⚠️ outdated |
+| Void | `0.51.0` | ⚠️ outdated |
+| Alpine edge | `1.0.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 comrak 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `comrak` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -74,4 +91,4 @@ comrak 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T07:11:04Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T06:59:34Z._
