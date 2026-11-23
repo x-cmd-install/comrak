@@ -14,12 +14,12 @@ x install comrak
 
 ## 代码洞察
 
-合计: **61,668** 行代码（覆盖前 5 种语言、共 **138** 个文件）。
+合计: **62,350** 行代码（覆盖前 5 种语言、共 **139** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 59,886 | 701 | 4,134 | 126 |
-| OCaml | 714 | 0 | 45 | 1 |
+| Rust | 60,587 | 686 | 4,244 | 127 |
+| OCaml | 694 | 0 | 43 | 1 |
 | Css | 318 | 0 | 80 | 2 |
 | Nix | 283 | 2 | 30 | 5 |
 | Toml | 190 | 6 | 33 | 4 |
@@ -32,8 +32,8 @@ x install comrak
 
 ## 发布
 
-- **最新版本**: `v1.1.0` (2026-11-20)
-- **最近提交**: 2026-11-22
+- **最新版本**: `v1.2.0` (2026-11-23)
+- **最近提交**: 2026-11-23
 - **Release 含资产**: 5 个
 
 ## 流行度
@@ -42,32 +42,32 @@ x install comrak
 
 ## 累计统计
 
-- **发布数**: 101 · **已合并 PR**: 566 · **开放 PR**: 1 · **已关闭 issue**: 271 · **开放 issue**: 10 · **提交数**: 2593
+- **发布数**: 102 · **已合并 PR**: 569 · **开放 PR**: 1 · **已关闭 issue**: 271 · **开放 issue**: 10 · **提交数**: 2624
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 6 | 52 | 0 | 8 | 3 | 216 |
-| last60d | 2026-09-23 | 8 | 83 | 0 | 12 | 3 | 272 |
-| 90d | 2026-08-24 | 9 | 96 | 0 | 14 | 3 | 300 |
-| last180d | 2026-05-26 | 11 | 115 | 0 | 15 | 3 | 365 |
-| 360d | 2025-11-27 | 15 | 186 | 1 | 29 | 6 | 509 |
-| last720d | 2024-12-02 | 35 | 322 | 1 | 83 | 8 | 1264 |
+| 30d | 2026-10-24 | 7 | 53 | 0 | 8 | 3 | 244 |
+| last60d | 2026-09-24 | 9 | 86 | 0 | 12 | 3 | 300 |
+| 90d | 2026-08-25 | 10 | 99 | 0 | 14 | 3 | 328 |
+| last180d | 2026-05-27 | 12 | 118 | 0 | 15 | 3 | 393 |
+| 360d | 2025-11-28 | 16 | 189 | 1 | 29 | 6 | 537 |
+| last720d | 2024-12-03 | 36 | 325 | 1 | 83 | 8 | 1295 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [comrak-1.1.0-aarch64-apple-darwin](https://github.com/kivikakk/comrak/releases/download/v1.1.0/comrak-1.1.0-aarch64-apple-darwin) | 3.1 MiB | `native/darwin/arm64` |
-| [comrak-1.1.0-aarch64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v1.1.0/comrak-1.1.0-aarch64-pc-windows-msvc.exe) | 2.9 MiB | `native/win/arm64` |
-| [comrak-1.1.0-aarch64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v1.1.0/comrak-1.1.0-aarch64-unknown-linux-musl) | 3.6 MiB | `native/linux/arm64/musl` |
-| [comrak-1.1.0-x86_64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v1.1.0/comrak-1.1.0-x86_64-pc-windows-msvc.exe) | 3.3 MiB | `native/win/x64` |
-| [comrak-1.1.0-x86_64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v1.1.0/comrak-1.1.0-x86_64-unknown-linux-musl) | 4.0 MiB | `native/linux/x64/musl` |
+| [comrak-1.2.0-aarch64-apple-darwin](https://github.com/kivikakk/comrak/releases/download/v1.2.0/comrak-1.2.0-aarch64-apple-darwin) | 3.1 MiB | `native/darwin/arm64` |
+| [comrak-1.2.0-aarch64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v1.2.0/comrak-1.2.0-aarch64-pc-windows-msvc.exe) | 3.0 MiB | `native/win/arm64` |
+| [comrak-1.2.0-aarch64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v1.2.0/comrak-1.2.0-aarch64-unknown-linux-musl) | 3.7 MiB | `native/linux/arm64/musl` |
+| [comrak-1.2.0-x86_64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v1.2.0/comrak-1.2.0-x86_64-pc-windows-msvc.exe) | 3.3 MiB | `native/win/x64` |
+| [comrak-1.2.0-x86_64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v1.2.0/comrak-1.2.0-x86_64-unknown-linux-musl) | 4.0 MiB | `native/linux/x64/musl` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/comrak) 上共有 **50** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**43** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/comrak) 上共有 **50** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**45** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -76,8 +76,8 @@ x install comrak
 | Debian 13 | `0.29.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.41.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.20.0` | ⚠️ outdated |
-| Arch | `1.1.0` | ✅ latest |
-| Homebrew | `1.1.0` | ✅ latest |
+| Arch | `1.1.0` | ⚠️ outdated |
+| Homebrew | `1.2.0` | ✅ latest |
 | Nix unstable | `1.0.0` | ⚠️ outdated |
 | Void | `0.51.0` | ⚠️ outdated |
 | Alpine edge | `1.0.0` | ⚠️ outdated |
@@ -91,4 +91,4 @@ comrak 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261122.yml` · 2026-11-22T07:08:25Z._
+_数据快照: `data/card/261123.yml` · 2026-11-23T07:37:24Z._
