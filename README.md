@@ -24,6 +24,16 @@ Total: **62,350** lines of code across **139** files in the top 5 languages.
 | Nix | 283 | 2 | 30 | 5 |
 | Toml | 190 | 6 | 33 | 4 |
 
+## OpenSSF Scorecard
+
+Overall score: **5.3 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 0/4 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/kivikakk/comrak>
@@ -33,27 +43,27 @@ Total: **62,350** lines of code across **139** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.2.0` (2026-11-23)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,751 · **Forks**: 208 · **Open issues**: 281 · **Contributors**: 94
+- **Stars**: 1,753 · **Forks**: 208 · **Open issues**: 281 · **Contributors**: 94
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 569 · **Open PRs**: 1 · **Closed issues**: 271 · **Open issues**: 10 · **Commits**: 2624
+- **Releases**: 102 · **Merged PRs**: 571 · **Open PRs**: 1 · **Closed issues**: 271 · **Open issues**: 10 · **Commits**: 2629
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 7 | 53 | 0 | 8 | 3 | 244 |
-| last60d | 2026-09-24 | 9 | 86 | 0 | 12 | 3 | 300 |
-| 90d | 2026-08-25 | 10 | 99 | 0 | 14 | 3 | 328 |
-| last180d | 2026-05-27 | 12 | 118 | 0 | 15 | 3 | 393 |
-| 360d | 2025-11-28 | 16 | 189 | 1 | 29 | 6 | 537 |
-| last720d | 2024-12-03 | 36 | 325 | 1 | 83 | 8 | 1295 |
+| 30d | 2026-10-25 | 7 | 53 | 0 | 8 | 3 | 247 |
+| last60d | 2026-09-25 | 9 | 88 | 0 | 12 | 3 | 303 |
+| 90d | 2026-08-26 | 10 | 101 | 0 | 14 | 3 | 331 |
+| last180d | 2026-05-28 | 12 | 120 | 0 | 15 | 3 | 396 |
+| 360d | 2025-11-29 | 16 | 191 | 1 | 29 | 6 | 540 |
+| last720d | 2024-12-04 | 36 | 326 | 1 | 82 | 8 | 1300 |
 
 ## Release assets
 
@@ -67,7 +77,7 @@ Total: **62,350** lines of code across **139** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **50** distros on [repology.org](https://repology.org/project/comrak). **3** are ✅ on the latest upstream release, **45** are ⚠️ on an older version.
+Reported by **51** distros on [repology.org](https://repology.org/project/comrak). **5** are ✅ on the latest upstream release, **44** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -76,7 +86,7 @@ Reported by **50** distros on [repology.org](https://repology.org/project/comrak
 | Debian 13 | `0.29.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.41.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.20.0` | ⚠️ outdated |
-| Arch | `1.1.0` | ⚠️ outdated |
+| Arch | `1.2.0` | ✅ latest |
 | Homebrew | `1.2.0` | ✅ latest |
 | Nix unstable | `1.0.0` | ⚠️ outdated |
 | Void | `0.51.0` | ⚠️ outdated |
@@ -91,4 +101,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:37:23Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:53:54Z._
