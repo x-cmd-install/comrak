@@ -14,11 +14,11 @@ x install comrak
 
 ## Code insight
 
-Total: **62,350** lines of code across **139** files in the top 5 languages.
+Total: **62,505** lines of code across **140** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 60,587 | 686 | 4,244 | 127 |
+| Rust | 60,742 | 671 | 4,251 | 128 |
 | OCaml | 694 | 0 | 43 | 1 |
 | Css | 318 | 0 | 80 | 2 |
 | Nix | 283 | 2 | 30 | 5 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.2.0` (2026-11-23)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,753 · **Forks**: 208 · **Open issues**: 281 · **Contributors**: 94
+- **Stars**: 1,757 · **Forks**: 207 · **Open issues**: 281 · **Contributors**: 94
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 571 · **Open PRs**: 1 · **Closed issues**: 271 · **Open issues**: 10 · **Commits**: 2629
+- **Releases**: 102 · **Merged PRs**: 573 · **Open PRs**: 1 · **Closed issues**: 271 · **Open issues**: 10 · **Commits**: 2639
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 7 | 53 | 0 | 8 | 3 | 247 |
-| last60d | 2026-09-25 | 9 | 88 | 0 | 12 | 3 | 303 |
-| 90d | 2026-08-26 | 10 | 101 | 0 | 14 | 3 | 331 |
-| last180d | 2026-05-28 | 12 | 120 | 0 | 15 | 3 | 396 |
-| 360d | 2025-11-29 | 16 | 191 | 1 | 29 | 6 | 540 |
-| last720d | 2024-12-04 | 36 | 326 | 1 | 82 | 8 | 1300 |
+| 30d | 2026-10-26 | 7 | 51 | 0 | 8 | 1 | 255 |
+| last60d | 2026-09-26 | 9 | 90 | 0 | 12 | 3 | 311 |
+| 90d | 2026-08-27 | 10 | 103 | 0 | 14 | 3 | 339 |
+| last180d | 2026-05-29 | 12 | 122 | 0 | 15 | 3 | 404 |
+| 360d | 2025-11-30 | 16 | 193 | 1 | 28 | 6 | 548 |
+| last720d | 2024-12-05 | 36 | 327 | 1 | 82 | 8 | 1310 |
 
 ## Release assets
 
@@ -75,23 +75,6 @@ Lowest-scoring checks:
 | [comrak-1.2.0-x86_64-pc-windows-msvc.exe](https://github.com/kivikakk/comrak/releases/download/v1.2.0/comrak-1.2.0-x86_64-pc-windows-msvc.exe) | 3.3 MiB | `native/win/x64` |
 | [comrak-1.2.0-x86_64-unknown-linux-musl](https://github.com/kivikakk/comrak/releases/download/v1.2.0/comrak-1.2.0-x86_64-unknown-linux-musl) | 4.0 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **51** distros on [repology.org](https://repology.org/project/comrak). **5** are ✅ on the latest upstream release, **44** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.54.0` | ⚠️ outdated |
-| Debian 14 | `0.54.0` | ⚠️ outdated |
-| Debian 13 | `0.29.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.41.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.20.0` | ⚠️ outdated |
-| Arch | `1.2.0` | ✅ latest |
-| Homebrew | `1.2.0` | ✅ latest |
-| Nix unstable | `1.0.0` | ⚠️ outdated |
-| Void | `0.51.0` | ⚠️ outdated |
-| Alpine edge | `1.0.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `comrak` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +84,4 @@ Install metadata for comrak lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:53:54Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:17:58Z._
